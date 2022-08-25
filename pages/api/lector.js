@@ -21,7 +21,7 @@ let files = [
 
 export default async function handler(req, res) {
 
-    let acumulador = "";
+    let acumulador = []
 
     //Find the absolute path of the json directory
     const jsonDirectory = path.join(process.cwd(), 'json');
@@ -30,14 +30,10 @@ export default async function handler(req, res) {
     for (let i = 0; i < files.length; i++) {
         const file = files[i];
         const fileContents = fs.readFileSync(jsonDirectory + "/" + file);
-        //borro el primer y el ultimo caracter para que no haya problemas con el json
-        const fileJson = fileContents.toString().slice(1, -1);
-        acumulador += fileJson + ",";
+        const json = JSON.parse(fileContents);
+        acumulador = acumulador.concat(json)
     }
 
-    //agrego el primer y el ultimo caracter para que no haya problemas con el json
-    acumulador = "[" + acumulador.slice(0, -1) + "]";
-
     //Return the content of the data file in json format
-    res.status(200).json(JSON.parse(acumulador));
+    res.status(200).json(acumulador);
 }
