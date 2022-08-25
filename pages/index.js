@@ -6,7 +6,7 @@ export default function Home() {
 
   useEffect(() => {
     async function fetchData() {
-      const response = await fetch('http://localhost:3000/api/lector');
+      const response = await fetch('https://backup-slack.vercel.app/api/lector');
       const data = await response.json();
       setMensajes(data);
     }
