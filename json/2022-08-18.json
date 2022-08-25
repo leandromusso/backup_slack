@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "a3413dbb-99c4-4ff6-b8f7-86500ad3256f",
+        "type": "message",
+        "text": "Que felicidad, logre hacer el ejercicio de la clase de ayer :partying_face:",
+        "user": "U03SS81TT4M",
+        "ts": "1660827455.058649",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/a9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que felicidad, logre hacer el ejercicio de la clase de ayer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U03SKR197C6",
+                    "U03SNJ4A09L",
+                    "U03SBS2LU79",
+                    "U03T45VH5T7",
+                    "U03SV6Y1UFL",
+                    "U03SNJ46M38",
+                    "U03T7RCU481"
+                ],
+                "count": 7
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U03TJTHBQBS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

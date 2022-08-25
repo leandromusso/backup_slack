@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659969837.643629",
+        "user": "U03SPEM3W0M",
+        "text": "<@U03SPEM3W0M> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1659970064.452119",
+        "user": "U03SPEM3W0M",
+        "text": "ha establecido la descripción del canal: Este canal puede usarse para realizar todo tipo de consultas, como así también para ayudar a quienes lo necesiten",
+        "purpose": "Este canal puede usarse para realizar todo tipo de consultas, como así también para ayudar a quienes lo necesiten"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659977336.876429",
+        "user": "U03SKR197C6",
+        "text": "<@U03SKR197C6> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659978024.766419",
+        "user": "U03SBS2LU79",
+        "text": "<@U03SBS2LU79> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660004365.829109",
+        "user": "U03TJTCSPMW",
+        "text": "<@U03TJTCSPMW> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660004448.577659",
+        "user": "U03SXKXA0HJ",
+        "text": "<@U03SXKXA0HJ> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660004448.791309",
+        "user": "U03SV4201DH",
+        "text": "<@U03SV4201DH> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660004665.326199",
+        "user": "U03SS82PSCV",
+        "text": "<@U03SS82PSCV> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660004755.796399",
+        "user": "U03TJTRSVQQ",
+        "text": "<@U03TJTRSVQQ> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660004866.531359",
+        "user": "U03SEK4F555",
+        "text": "<@U03SEK4F555> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660005148.578009",
+        "user": "U03SS81TT4M",
+        "text": "<@U03SS81TT4M> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660005798.197579",
+        "user": "U03SS82P2DB",
+        "text": "<@U03SS82P2DB> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660005859.267919",
+        "user": "U03T7T7BP9P",
+        "text": "<@U03T7T7BP9P> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660006573.183519",
+        "user": "U03TJTFNL5N",
+        "text": "<@U03TJTFNL5N> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660009833.854119",
+        "user": "U03SXKW6YHJ",
+        "text": "<@U03SXKW6YHJ> se ha unido al canal"
+    }
+]

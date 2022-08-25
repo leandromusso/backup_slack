@@ -1,0 +1,221 @@
+[
+    {
+        "client_msg_id": "4858b5bb-dee6-4411-b535-06fa97e4af24",
+        "type": "message",
+        "text": "Hola buenas, mañana tendremos clases al horario de siempre?",
+        "user": "U03SV6T6ATC",
+        "ts": "1660506293.207959",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpd=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola buenas, mañana tendremos clases al horario de siempre?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b327682-669e-4791-906b-85302dbda4ef",
+        "type": "message",
+        "text": "Hola, Buenas tardes. Si, exacto. No hay feriados (salvo por navidad y año nuevo) los demás se cursa con normalidad.",
+        "user": "U03SKR197C6",
+        "ts": "1660506421.302029",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "3bc2367f018b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906242432198_3bc2367f018b836752c4_72.jpg",
+            "first_name": "Rocío",
+            "real_name": "Rocío Alvarez",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "rocio.alvarez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vg\/o1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, Buenas tardes. Si, exacto. No hay feriados (salvo por navidad y año nuevo) los demás se cursa con normalidad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03TJTBRNDN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fa0baf5-c85c-4b6e-ac4a-ef9b7f62725b",
+        "type": "message",
+        "text": "Dalee graciasss",
+        "user": "U03SV6T6ATC",
+        "ts": "1660506547.524839",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7sEtO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dalee graciasss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03TJTBRNDN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "150c78e4-aa7f-4cab-8c0d-3827b66f9c3d",
+        "type": "message",
+        "text": "Holaa, para mañana solo hacemos la clase 3 de repaso?",
+        "user": "U03SNJ46M38",
+        "ts": "1660510263.728029",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fqll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holaa, para mañana solo hacemos la clase 3 de repaso?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "453a860c-f0c3-48ad-96a7-f52c3316e7c8",
+        "type": "message",
+        "text": "hace primero una carpeta y un archivo js y despues manda npm",
+        "user": "U03SXKW6YHJ",
+        "ts": "1660514382.006369",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/nXz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hace primero una carpeta y un archivo js y despues manda npm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660430455.321039",
+        "parent_user_id": "U03SV6RD8DQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SV6RD8DQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

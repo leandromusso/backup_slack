@@ -1,0 +1,146 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660048052.418429",
+        "user": "U03SV6VSVKL",
+        "text": "<@U03SV6VSVKL> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660058074.394859",
+        "user": "U03T7RCU481",
+        "text": "<@U03T7RCU481> se ha unido al canal"
+    },
+    {
+        "client_msg_id": "4cf5f11f-93b0-4b38-80f8-c5a6b3478bcd",
+        "type": "message",
+        "text": "Holaa, para el miércoles que viene tendríamos que tener vista hasta la clase 2 de introducción a node no?",
+        "user": "U03T7RCU481",
+        "ts": "1660058174.159909",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jPwbB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holaa, para el miércoles que viene tendríamos que tener vista hasta la clase 2 de introducción a node no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "exacto, sería esto",
+        "files": [
+            {
+                "id": "F03SS1RJMK8",
+                "created": 1660058345,
+                "timestamp": 1660058345,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03SPEM3W0M",
+                "editable": false,
+                "size": 19530,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03SS1RJMK8\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03SS1RJMK8\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03SS1RJMK8-a64c5fb09a\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03SS1RJMK8-a64c5fb09a\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03SS1RJMK8-a64c5fb09a\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 293,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03SS1RJMK8-a64c5fb09a\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "original_w": 387,
+                "original_h": 475,
+                "thumb_tiny": "AwAwACfTpC4Bwc\/lS0UAM3e5\/wC+acGB6fypNi+\/506gAooozQA0gZztBPrSbR\/zzH6Up+926etGB6L+dAAFB6oBTqQdKWgApKWkoACOc8dPSjB9vypCDzgmgBj1JH5UAOopMH+8fypNrf3j+VADqSl5xzSUAf\/Z",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03SPEM3W0M\/F03SS1RJMK8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03SS1RJMK8-99b673582a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03SPEM3W0M",
+        "display_as_bot": false,
+        "ts": "1660058348.075389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Of0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exacto, sería esto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "df9b7ec7-e81a-4039-a4a9-3da0e8183318"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660065166.513439",
+        "user": "U03SNJ4A09L",
+        "text": "<@U03SNJ4A09L> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660066375.446149",
+        "user": "U03SNJ46M38",
+        "text": "<@U03SNJ46M38> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660070328.449429",
+        "user": "U03SEKB5Y95",
+        "text": "<@U03SEKB5Y95> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660076276.176469",
+        "user": "U03T7RCLAJV",
+        "text": "<@U03T7RCLAJV> se ha unido al canal"
+    }
+]

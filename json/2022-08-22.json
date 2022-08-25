@@ -1,0 +1,3660 @@
+[
+    {
+        "type": "message",
+        "text": "Gente alguien me sabe que podria llegar a estaar mal aca?",
+        "files": [
+            {
+                "id": "F03UPP5CDRS",
+                "created": 1661182916,
+                "timestamp": 1661182916,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03T7RCU481",
+                "editable": false,
+                "size": 35608,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UPP5CDRS\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UPP5CDRS\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 152,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 303,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_800.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 337,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_960.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 404,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPP5CDRS-1ae979ce1a\/image_1024.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 431,
+                "original_w": 1068,
+                "original_h": 450,
+                "thumb_tiny": "AwAUADCf7bCO7flR9thxnL\/981lkn1pKB3NX7fD6v\/3zR9vh9X\/75rL59aQg0Bc1ft8H+3\/3zR9vg\/2\/++ayaKAuKetHag9aO1AgzRSUUAFFFFAH\/9k=",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03T7RCU481\/F03UPP5CDRS\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03UPP5CDRS-953086776c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03T7RCU481",
+        "display_as_bot": false,
+        "ts": "1661182920.851789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPvm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gente alguien me sabe que podria llegar a estaar mal aca?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e3c6ea76-2e72-4e20-9eff-7f118490c8b0",
+        "thread_ts": "1661182920.851789",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1661184367.273069",
+        "reply_users": [
+            "U03TJTDB8NL",
+            "U03T7RCU481",
+            "U03TJTCSPMW"
+        ],
+        "replies": [
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1661183043.199819"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1661183083.144929"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1661183804.871509"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1661183808.224549"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661184044.400879"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1661184367.273069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "88f8ef47-65cd-4266-83bb-78fadede8542",
+        "type": "message",
+        "text": "con push le agregas el resultado , tenes que reemplazarlo",
+        "user": "U03TJTDB8NL",
+        "ts": "1661183043.199819",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "con push le agregas el resultado , tenes que reemplazarlo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661182920.851789",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "eacc00d6-c929-4cff-b0c1-9b2c29c90db2",
+        "type": "message",
+        "text": "osea asigna array[i] = callback(array[i]) en vez del push y otra variable",
+        "user": "U03TJTDB8NL",
+        "ts": "1661183083.144929",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsRG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "osea asigna array[i] = callback(array[i]) en vez del push y otra variable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661182920.851789",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "e33b5fbd-d13b-4637-a755-005ada403cbe",
+        "type": "message",
+        "text": "Nose porque no em agrea el http al principio",
+        "user": "U03T7RCU481",
+        "ts": "1661183804.871509",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9\/Tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nose porque no em agrea el http al principio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661182920.851789",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03UEPZF3M4",
+                "created": 1661183804,
+                "timestamp": 1661183804,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03T7RCU481",
+                "editable": false,
+                "size": 78412,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UEPZF3M4\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UEPZF3M4\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UEPZF3M4-1668760774\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UEPZF3M4-1668760774\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UEPZF3M4-1668760774\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 185,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UEPZF3M4-1668760774\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 247,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UEPZF3M4-1668760774\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UEPZF3M4-1668760774\/image_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 370,
+                "original_w": 763,
+                "original_h": 392,
+                "thumb_tiny": "AwAYADCjSjd2pBSknORmgAINNp2WxikxQAlFLg0YxQAuKMewpwo7UANxRj\/OKdRQAzFH406mUAf\/2Q==",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03T7RCU481\/F03UEPZF3M4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03UEPZF3M4-0bd5421dbc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03T7RCU481",
+        "display_as_bot": false,
+        "ts": "1661183808.224549",
+        "client_msg_id": "9a8cbb42-f8a7-436c-9a91-c691c0e78d0a",
+        "thread_ts": "1661182920.851789",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "70903d93-ede7-46be-907c-9d7d1c5e9c17",
+        "type": "message",
+        "text": "Hola! Alguien se da cuenta porque esta fallando?",
+        "user": "U03TJTCSPMW",
+        "ts": "1661183928.887399",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6qejC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! Alguien se da cuenta porque esta fallando?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03UPS8FZ0C",
+                "created": 1661183939,
+                "timestamp": 1661183939,
+                "name": "Callback.jpg",
+                "title": "Callback.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03TJTCSPMW",
+                "editable": false,
+                "size": 25521,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UPS8FZ0C\/callback.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UPS8FZ0C\/download\/callback.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPS8FZ0C-b1c7bd5df0\/callback_64.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPS8FZ0C-b1c7bd5df0\/callback_80.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPS8FZ0C-b1c7bd5df0\/callback_360.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 194,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPS8FZ0C-b1c7bd5df0\/callback_480.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 259,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UPS8FZ0C-b1c7bd5df0\/callback_160.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "original_w": 586,
+                "original_h": 316,
+                "thumb_tiny": "AwAZADCjSgnsKSlyaADLelIQe4pd3tRu9qAG0UUUAKBnpS7cd6bRQAuPcUY96SigBfxopKKAP\/\/Z",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03TJTCSPMW\/F03UPS8FZ0C\/callback.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03UPS8FZ0C-74eb94ea26",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03TJTCSPMW",
+        "display_as_bot": false,
+        "ts": "1661183941.304019",
+        "client_msg_id": "b6a52cb6-7889-4720-b891-306b130f438b",
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "2da57794-ec6f-48a9-9988-8c011d185996",
+        "type": "message",
+        "text": "yo lo hice con un acumulador en donde guardar cada elemento modificado",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661184006.451499",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo hice con un acumulador en donde guardar cada elemento modificado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "f1898cd4-573b-441f-951d-ea1992eaad97",
+        "type": "message",
+        "text": "fijate que escribiste lengHT",
+        "user": "U03TJTCSPMW",
+        "ts": "1661184044.400879",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4B0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fijate que escribiste lengHT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661182920.851789",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "8e1d107a-164b-4ea0-914d-33d3b4d471e7",
+        "type": "message",
+        "text": "por cada vuelta de ciclo se guarda en el acumulador el array modificado y cuando termina hago que retorne el acumulador",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661184088.832989",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por cada vuelta de ciclo se guarda en el acumulador el array modificado y cuando termina hago que retorne el acumulador"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "979b01c6-38cb-4296-8c62-f21364c58a39",
+        "type": "message",
+        "text": "No pongas return dentro del for",
+        "user": "U03SS81TT4M",
+        "ts": "1661184099.197229",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No pongas return dentro del for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03TJTCSPMW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d96f297d-bcc1-4779-84bc-9f5d4b646859",
+        "type": "message",
+        "text": "perfecto era el return adentro del for, gracias!",
+        "user": "U03TJTCSPMW",
+        "ts": "1661184145.937239",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GDlsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perfecto era el return adentro del for, gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03SS81TT4M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff660299-b948-4e5f-b03f-12a7b483e6fe",
+        "type": "message",
+        "text": "era eso, gracias chicos",
+        "user": "U03T7RCU481",
+        "ts": "1661184367.273069",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "era eso, gracias chicos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661182920.851789",
+        "parent_user_id": "U03T7RCU481",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03TJTCSPMW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "buenas, alguien me puede ayudar con esto, intente de muchas formas y ninguna me sirve y ya no se que poner y es el unico ejercicio que me falta",
+        "files": [
+            {
+                "id": "F03UMCUHJ0K",
+                "created": 1661184868,
+                "timestamp": 1661184868,
+                "name": "20220822_024507.jpg",
+                "title": "20220822_024507.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03SNJ4A09L",
+                "editable": false,
+                "size": 404674,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UMCUHJ0K\/20220822_024507.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UMCUHJ0K\/download\/20220822_024507.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_64.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_80.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_360.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_480.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_160.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_720.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_800.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_960.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UMCUHJ0K-a3cdde3a26\/20220822_024507_1024.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4000,
+                "original_h": 3000,
+                "thumb_tiny": "AwAkADB4RT2H5U8QoRyo\/KmC4i7hvyqQXEWM\/P8AlQMQ20f9xaa1tH\/d\/WpPtMP95v8Avml+0Qn+P\/x00CKxto+2R+NRvbJ6tVlpYf8AnoPyNRtJEf8AlotAyr1704cUn7sf8tD\/AN8\/\/XpQYif9Yf8Avn\/69Ahdx9KCc9sUfuv+ev6f\/XpCYsf60\/lQA0k+tMNPYxf3yfwphMZ\/ib8hQBHSUtJQAUUUUAFFFFAH\/9k=",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03SNJ4A09L\/F03UMCUHJ0K\/20220822_024507.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03UMCUHJ0K-b88a8a566a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03SNJ4A09L",
+        "display_as_bot": false,
+        "ts": "1661184880.693009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "buenas, alguien me puede ayudar con esto, intente de muchas formas y ninguna me sirve y ya no se que poner y es el unico ejercicio que me falta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8eeb32d5-b16e-4dce-9d69-f3a824d0ed97",
+        "thread_ts": "1661184880.693009",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1661204900.219049",
+        "reply_users": [
+            "U03SS81TT4M",
+            "U03SXKW6YHJ",
+            "U03SNJ46M38",
+            "U03SNJ4A09L",
+            "U03SV3ZEV51"
+        ],
+        "replies": [
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661185209.388269"
+            },
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1661185261.714309"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661185295.462549"
+            },
+            {
+                "user": "U03SNJ4A09L",
+                "ts": "1661185422.961569"
+            },
+            {
+                "user": "U03SV3ZEV51",
+                "ts": "1661204900.219049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c9dce7df-08d0-40e3-ba84-ac0feaeb76ea",
+        "type": "message",
+        "text": "fijate en la diapositiva 6, ahi esta la respuesta :grimacing:",
+        "user": "U03SS81TT4M",
+        "ts": "1661185209.388269",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATqug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fijate en la diapositiva 6, ahi esta la respuesta "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661184880.693009",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "e3bbd834-4328-4180-b7ba-6da8df91610b",
+        "type": "message",
+        "text": "es en una linea que lo tenes que hacer",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661185261.714309",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3eC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es en una linea que lo tenes que hacer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661184880.693009",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "919c9232-1f6c-4e52-8a77-34df9010056b",
+        "type": "message",
+        "text": "tenes q usar el Destructuring, let [aMarruecos, bBariloche] = destinos y dps los pasas por consola con el nombre q le pusiste en el let",
+        "user": "U03SNJ46M38",
+        "ts": "1661185295.462549",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tenes q usar el Destructuring, let [aMarruecos, bBariloche] = destinos y dps los pasas por consola con el nombre q le pusiste en el let"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661184880.693009",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "1c216625-7dfc-42a1-b2b8-3d0d2762343b",
+        "type": "message",
+        "text": "gracias a todos, ahora cuando cargue la compu lo vuelvo a probar y les aviso si lo hice bien :+1:",
+        "user": "U03SNJ4A09L",
+        "ts": "1661185422.961569",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "4285d7ca68c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898784403575_4285d7ca68c3ea3b5d6f_72.jpg",
+            "first_name": "Athina",
+            "real_name": "Athina Cabaña Lagrottería",
+            "display_name": "Athina Cabaña Lagrottería",
+            "team": "T03SKQNH0KY",
+            "name": "athina.cabana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FpKcg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias a todos, ahora cuando cargue la compu lo vuelvo a probar y les aviso si lo hice bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661184880.693009",
+        "parent_user_id": "U03SNJ4A09L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Buenas, no entiendo que es lo que esta fallando, algunx sabe??",
+        "files": [
+            {
+                "id": "F03VB8YRB9N",
+                "created": 1661185502,
+                "timestamp": 1661185502,
+                "name": "estudiantes.jpg",
+                "title": "estudiantes.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03TJTCSPMW",
+                "editable": false,
+                "size": 26710,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03VB8YRB9N\/estudiantes.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03VB8YRB9N\/download\/estudiantes.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03VB8YRB9N-efbff73cd9\/estudiantes_64.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03VB8YRB9N-efbff73cd9\/estudiantes_80.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03VB8YRB9N-efbff73cd9\/estudiantes_360.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 152,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03VB8YRB9N-efbff73cd9\/estudiantes_480.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03VB8YRB9N-efbff73cd9\/estudiantes_160.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "original_w": 566,
+                "original_h": 239,
+                "thumb_tiny": "AwAUADCjTieOKbS4X1oAAATzRgZowvrRgetAAQMf\/XpDRx70HHbNACgAn8KeEBzTV6\/hUi9GoAjZQFyKZUr\/AHaioAKKKKAP\/9k=",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03TJTCSPMW\/F03VB8YRB9N\/estudiantes.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03VB8YRB9N-3c45619647",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03TJTCSPMW",
+        "display_as_bot": false,
+        "ts": "1661185519.609449",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenas, no entiendo que es lo que esta fallando, algunx sabe??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "94da1959-28f3-4b57-b71e-590b107f8ea1",
+        "thread_ts": "1661185519.609449",
+        "reply_count": 20,
+        "reply_users_count": 3,
+        "latest_reply": "1661187239.505859",
+        "reply_users": [
+            "U03SNJ46M38",
+            "U03SS81TT4M",
+            "U03TJTCSPMW"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661185624.377059"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661185626.474119"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661185742.091809"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661185770.690639"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661185816.415919"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661185853.441039"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661185888.665129"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661185916.482539"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661185960.254319"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661185967.417919"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661186036.637609"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661186185.774829"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661186274.483169"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661186458.440739"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661186621.981729"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661186640.371609"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661186698.986949"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661186777.450089"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661187186.938839"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661187239.505859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9a8741d0-db95-4306-8eb9-724649ff5599",
+        "type": "message",
+        "text": "tenes q hacer aprobados y desaprobados, capaz te tira error porque falte el de desaprobados",
+        "user": "U03SNJ46M38",
+        "ts": "1661185624.377059",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6VS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tenes q hacer aprobados y desaprobados, capaz te tira error porque falte el de desaprobados"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "baa59e3d-32e9-4f4d-951e-6897e2b9b3dc",
+        "type": "message",
+        "text": "hacelo con estudiantes.aprobado",
+        "user": "U03SS81TT4M",
+        "ts": "1661185626.474119",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMEN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hacelo con estudiantes.aprobado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "09f5d140-36f0-4c50-aab5-45d6302b674f",
+        "type": "message",
+        "text": "si, me falta la parte de desaprobados pero primero quiero corroborar que la de aprobados este funcionando bien",
+        "user": "U03TJTCSPMW",
+        "ts": "1661185742.091809",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, me falta la parte de desaprobados pero primero quiero corroborar que la de aprobados este funcionando bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "17baa117-d853-40ae-9db0-77628d0a5467",
+        "type": "message",
+        "text": "si esta bien, igual yo puse 6 en vez de 7 por si acaso",
+        "user": "U03SNJ46M38",
+        "ts": "1661185770.690639",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si esta bien, igual yo puse 6 en vez de 7 por si acaso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "450bb81c-b8c5-4b6f-b574-ea9bcf4c8c72",
+        "type": "message",
+        "text": "seria solo return estudiantes.aprobado no?",
+        "user": "U03TJTCSPMW",
+        "ts": "1661185816.415919",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seria solo return estudiantes.aprobado no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "13aab312-16c9-467c-9ce7-6cf2778ff713",
+        "type": "message",
+        "text": "ah pera, creo q es promedio.promedio en tu caso",
+        "user": "U03SNJ46M38",
+        "ts": "1661185853.441039",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah pera, creo q es promedio.promedio en tu caso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "1def0a54-7cfe-4f77-b87e-63236a142a48",
+        "type": "message",
+        "text": "claro es eso, pusiste en la funcion de parametro promedio y despues hiciste con estudiantes",
+        "user": "U03SS81TT4M",
+        "ts": "1661185888.665129",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Ud",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "claro es eso, pusiste en la funcion de parametro promedio y despues hiciste con estudiantes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "dca6e052-b42f-46ef-ba62-9155a9f6b63d",
+        "type": "message",
+        "text": "ya que el promedio de parametro reemplaza al valor",
+        "user": "U03SNJ46M38",
+        "ts": "1661185916.482539",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dtu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ya que el promedio de parametro reemplaza al valor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03UQ3AECA0",
+                "created": 1661185957,
+                "timestamp": 1661185957,
+                "name": "estudiantes 2.jpg",
+                "title": "estudiantes 2.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03TJTCSPMW",
+                "editable": false,
+                "size": 26652,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UQ3AECA0\/estudiantes_2.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UQ3AECA0\/download\/estudiantes_2.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UQ3AECA0-f6fb127086\/estudiantes_2_64.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UQ3AECA0-f6fb127086\/estudiantes_2_80.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UQ3AECA0-f6fb127086\/estudiantes_2_360.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 151,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UQ3AECA0-f6fb127086\/estudiantes_2_480.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UQ3AECA0-f6fb127086\/estudiantes_2_160.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "original_w": 568,
+                "original_h": 239,
+                "thumb_tiny": "AwAUADCjTicDim0uB60AGATQQM0YHrSED1oAUgY\/+vSGjj3o47ZoAVRkj6U4IDnrSJ94fSpB1NAEbKAuRTKlf7lRUAFFFFAH\/9k=",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03TJTCSPMW\/F03UQ3AECA0\/estudiantes_2.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03UQ3AECA0-1df075eb08",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03TJTCSPMW",
+        "display_as_bot": false,
+        "ts": "1661185960.254319",
+        "client_msg_id": "daecf89e-73ca-481c-8ee2-025b5edb0180",
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "cc2a16d4-7396-49ae-907e-9b095e1b9889",
+        "type": "message",
+        "text": "asi tampoco me lo corre",
+        "user": "U03TJTCSPMW",
+        "ts": "1661185967.417919",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ntP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "asi tampoco me lo corre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "447835de-874d-4afc-b043-53f69b25fc05",
+        "type": "message",
+        "text": "el parametro va primero porque es el valor, dps .promedio porque seria la asignación",
+        "user": "U03SNJ46M38",
+        "ts": "1661186036.637609",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el parametro va primero porque es el valor, dps .promedio porque seria la asignación"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "6aa1967b-421c-4afe-bb42-df06635622ea",
+        "type": "message",
+        "text": "si, era eso, gracias! con el caso de aprobado tenia que usar aprobado.aprobado",
+        "user": "U03TJTCSPMW",
+        "ts": "1661186185.774829",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, era eso, gracias! con el caso de aprobado tenia que usar aprobado.aprobado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3d65e0e-1c9c-4676-8874-f9b029191e9c",
+        "type": "message",
+        "text": "no entiendo la logica igual jajaj porque la funcion supuestamente puede quedar como function()",
+        "user": "U03TJTCSPMW",
+        "ts": "1661186274.483169",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03TJTCSPMW",
+            "ts": "1661194043.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no entiendo la logica igual jajaj porque la funcion supuestamente puede quedar como function()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "700d6570-d4ec-439e-8168-4ce7102dd2b4",
+        "type": "message",
+        "text": "como? no entendi",
+        "user": "U03SNJ46M38",
+        "ts": "1661186458.440739",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qlh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "como? no entendi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03U74GA2UX",
+                "created": 1661186619,
+                "timestamp": 1661186619,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03TJTCSPMW",
+                "editable": false,
+                "size": 37425,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03U74GA2UX\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03U74GA2UX\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U74GA2UX-b0876f0a44\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U74GA2UX-b0876f0a44\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U74GA2UX-b0876f0a44\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 130,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U74GA2UX-b0876f0a44\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 173,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U74GA2UX-b0876f0a44\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U74GA2UX-b0876f0a44\/image_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 259,
+                "original_w": 731,
+                "original_h": 263,
+                "thumb_tiny": "AwARADC+7qGx5oU+nFKJY8cyKfxFI0MTMWZFJPek+zwf881\/KgB3mx\/31\/Omyyp5TYkXODjBo+zw\/wDPNfypstvEImIjXODjigCp5r\/3n\/OpLeRzOoLNj3NQ4Pv+VS24P2hOD37e1AF6iiigApaSloAKKKKAP\/\/Z",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03TJTCSPMW\/F03U74GA2UX\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03U74GA2UX-5ec2e35c67",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03TJTCSPMW",
+        "display_as_bot": false,
+        "ts": "1661186621.981729",
+        "client_msg_id": "946e4eaa-c8ea-47e1-9853-05545db20368",
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "f9c2ee9c-d171-4ee4-a828-12c5bf475483",
+        "type": "message",
+        "text": "el parametro que ahi usa la palabra edad no es obligatorio o no?",
+        "user": "U03TJTCSPMW",
+        "ts": "1661186640.371609",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03TJTCSPMW",
+            "ts": "1661194015.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el parametro que ahi usa la palabra edad no es obligatorio o no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "21d6fa2b-b3dd-400d-8191-935695c495c5",
+        "type": "message",
+        "text": "en el caso del ejemplo si es obligatorio",
+        "user": "U03SNJ46M38",
+        "ts": "1661186698.986949",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en el caso del ejemplo si es obligatorio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03TJTCSPMW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f8f3660-b84b-43f3-8008-2777ded78fb1",
+        "type": "message",
+        "text": "la palabra edad se va a ir reemplazando por los valores del array, como una iteración",
+        "user": "U03SNJ46M38",
+        "ts": "1661186777.450089",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUS7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la palabra edad se va a ir reemplazando por los valores del array, como una iteración"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "fed8a77e-2d85-4767-832a-8173614701f1",
+        "type": "message",
+        "text": "claro me parece que entendi, en el ejemplo nuestro, la palabra que pones ahi pasa a ser un objeto que va recorriendo todo el array y va guardando segun el filtro que hagas",
+        "user": "U03TJTCSPMW",
+        "ts": "1661187186.938839",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SX9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "claro me parece que entendi, en el ejemplo nuestro, la palabra que pones ahi pasa a ser un objeto que va recorriendo todo el array y va guardando segun el filtro que hagas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW"
+    },
+    {
+        "client_msg_id": "416a72d7-3977-4115-a563-890bda01b5de",
+        "type": "message",
+        "text": "lo mas claro tendria que haber sido poner function(aprobados) y despues return aprobados.promedio &gt;= 7",
+        "user": "U03TJTCSPMW",
+        "ts": "1661187239.505859",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d00dfadecc96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-15\/3943381817491_d00dfadecc960f119f93_72.jpg",
+            "first_name": "Fermin",
+            "real_name": "Fermin Gutierrez",
+            "display_name": "Fermin Gutierrez",
+            "team": "T03SKQNH0KY",
+            "name": "fermingutierrezaneli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo mas claro tendria que haber sido poner function(aprobados) y despues return aprobados.promedio >= 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661185519.609449",
+        "parent_user_id": "U03TJTCSPMW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06331c12-e4af-47ff-8870-6850df1c8097",
+        "type": "message",
+        "text": "Hola! con el ejercicio de los aprobados y desaprobados. no entendi muy bien porque seria aprobado.aprobado. Alguien lo entiende bien?",
+        "user": "U03SEK3QWJ3",
+        "ts": "1661194880.044389",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "6d875367da4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915671617908_6d875367da4b6f2e8025_72.jpg",
+            "first_name": "Koichi",
+            "real_name": "Koichi Kairiyama",
+            "display_name": "Koichi Kairiyama",
+            "team": "T03SKQNH0KY",
+            "name": "koichi.kairiyama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "752u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! con el ejercicio de los aprobados y desaprobados. no entendi muy bien porque seria aprobado.aprobado. Alguien lo entiende bien?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "050a6167-733b-4037-ae92-13a792bdb091",
+        "type": "message",
+        "text": "let estudiantes = [\n    {nombre: ‘John’, promedio: 8.5, aprobado: true},\n    {nombre: ‘Jane’, promedio: 7, aprobado: true},\n    {nombre: ‘June’, promedio: 3, aprobado: false},\n]\n\nlet aprobados = estudiantes.filter(function (aprobado) {\n    return aprobado.aprobado == true;\n})\n\nlet desaprobados = estudiantes.filter(function (aprobado) {\n    return aprobado.aprobado ==  false;\n})",
+        "user": "U03SEK3QWJ3",
+        "ts": "1661194890.363079",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "6d875367da4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915671617908_6d875367da4b6f2e8025_72.jpg",
+            "first_name": "Koichi",
+            "real_name": "Koichi Kairiyama",
+            "display_name": "Koichi Kairiyama",
+            "team": "T03SKQNH0KY",
+            "name": "koichi.kairiyama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UnnVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let estudiantes = [\n    {nombre: ‘John’, promedio: 8.5, aprobado: true},\n    {nombre: ‘Jane’, promedio: 7, aprobado: true},\n    {nombre: ‘June’, promedio: 3, aprobado: false},\n]\n\nlet aprobados = estudiantes.filter(function (aprobado) {\n    return aprobado.aprobado == true;\n})\n\nlet desaprobados = estudiantes.filter(function (aprobado) {\n    return aprobado.aprobado ==  false;\n})"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661194890.363079",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1661195382.575409",
+        "reply_users": [
+            "U03SNJ46M38",
+            "U03SEK3QWJ3"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661194949.896269"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661194987.612529"
+            },
+            {
+                "user": "U03SEK3QWJ3",
+                "ts": "1661195382.575409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83b7ef4c-012c-4ee2-91f8-fba62ea8945c",
+        "type": "message",
+        "text": "No entiendo porque no sería estudiantes.aprobado",
+        "user": "U03SEK3QWJ3",
+        "ts": "1661194924.684619",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "6d875367da4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915671617908_6d875367da4b6f2e8025_72.jpg",
+            "first_name": "Koichi",
+            "real_name": "Koichi Kairiyama",
+            "display_name": "Koichi Kairiyama",
+            "team": "T03SKQNH0KY",
+            "name": "koichi.kairiyama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No entiendo porque no sería estudiantes.aprobado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661194924.684619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661201649.164499",
+        "reply_users": [
+            "U03SBS2LU79"
+        ],
+        "replies": [
+            {
+                "user": "U03SBS2LU79",
+                "ts": "1661201649.164499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0e7eeef0-b63a-4c78-8316-79fe61dbc1d7",
+        "type": "message",
+        "text": "por el parametro  de function(aprabado) y el .aprobado del let estudiantes",
+        "user": "U03SNJ46M38",
+        "ts": "1661194949.896269",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6RMR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por el parametro  de function(aprabado) y el .aprobado del let estudiantes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661194890.363079",
+        "parent_user_id": "U03SEK3QWJ3"
+    },
+    {
+        "client_msg_id": "b8427de5-b3c4-4cf3-8de0-437d3cfbaf51",
+        "type": "message",
+        "text": "podes cambiar el nombre del parametro",
+        "user": "U03SNJ46M38",
+        "ts": "1661194987.612529",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dscyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "podes cambiar el nombre del parametro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661194890.363079",
+        "parent_user_id": "U03SEK3QWJ3"
+    },
+    {
+        "client_msg_id": "3e903f22-3efc-4ada-9be5-d292bc53a3fd",
+        "type": "message",
+        "text": "Claro. y el parametro que le ponga (en este caso aprobado) funcionaría como un objeto? Me confundo por el (.)",
+        "user": "U03SEK3QWJ3",
+        "ts": "1661195382.575409",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "6d875367da4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915671617908_6d875367da4b6f2e8025_72.jpg",
+            "first_name": "Koichi",
+            "real_name": "Koichi Kairiyama",
+            "display_name": "Koichi Kairiyama",
+            "team": "T03SKQNH0KY",
+            "name": "koichi.kairiyama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5aAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claro. y el parametro que le ponga (en este caso aprobado) funcionaría como un objeto? Me confundo por el (.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661194890.363079",
+        "parent_user_id": "U03SEK3QWJ3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0d10e55-6ada-49cd-9c5c-1fe27e274069",
+        "type": "message",
+        "text": "Buenas!",
+        "user": "U03SV4201DH",
+        "ts": "1661200875.038129",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "505687f6a516",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936934289264_505687f6a5169290d00e_72.png",
+            "first_name": "Diego",
+            "real_name": "Diego Crespo",
+            "display_name": "Diego Crespo",
+            "team": "T03SKQNH0KY",
+            "name": "prdiego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83ea5a81-b7d4-41c9-83b4-6657cb0d4be9",
+        "type": "message",
+        "text": "consulta para el primer ejecicio de callbacks",
+        "user": "U03SV4201DH",
+        "ts": "1661200883.907219",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "505687f6a516",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936934289264_505687f6a5169290d00e_72.png",
+            "first_name": "Diego",
+            "real_name": "Diego Crespo",
+            "display_name": "Diego Crespo",
+            "team": "T03SKQNH0KY",
+            "name": "prdiego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkGri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "consulta para el primer ejecicio de callbacks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f900e362-7fb2-4495-8514-54eb52710281",
+        "type": "message",
+        "text": "lo estoy haciendo de la siguiente manera y me tira error :",
+        "user": "U03SV4201DH",
+        "ts": "1661200895.400919",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "505687f6a516",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936934289264_505687f6a5169290d00e_72.png",
+            "first_name": "Diego",
+            "real_name": "Diego Crespo",
+            "display_name": "Diego Crespo",
+            "team": "T03SKQNH0KY",
+            "name": "prdiego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cbvlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo estoy haciendo de la siguiente manera y me tira error :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03UGBD5L3G",
+                "created": 1661200896,
+                "timestamp": 1661200896,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03SV4201DH",
+                "editable": false,
+                "size": 134209,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UGBD5L3G\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03UGBD5L3G\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 124,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 165,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 247,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_800.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 275,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_960.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 330,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03UGBD5L3G-f58aa0d719\/image_1024.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 352,
+                "original_w": 2385,
+                "original_h": 819,
+                "thumb_tiny": "AwAQADC\/zmjn0rJN1KOkr\/nSC6m\/56P\/AN9UDubGT6Ufgax\/tE3\/AD2f\/vqj7RN\/z2f\/AL6oC5sUVjfaJ\/8Anq\/\/AH1R9on\/AOer\/wDfVAXP\/9k=",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03SV4201DH\/F03UGBD5L3G\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03UGBD5L3G-1f565b2c24",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03SV4201DH",
+        "display_as_bot": false,
+        "ts": "1661200899.864469",
+        "client_msg_id": "ad33aac7-4e62-43fa-9e22-379572773876"
+    },
+    {
+        "client_msg_id": "22c0432f-69f7-4627-85bd-2a0c64204ed1",
+        "type": "message",
+        "text": "por visual studio me anda perfecto",
+        "user": "U03SV4201DH",
+        "ts": "1661200906.602979",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "505687f6a516",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936934289264_505687f6a5169290d00e_72.png",
+            "first_name": "Diego",
+            "real_name": "Diego Crespo",
+            "display_name": "Diego Crespo",
+            "team": "T03SKQNH0KY",
+            "name": "prdiego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SVuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por visual studio me anda perfecto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfd51ab9-27ca-408e-b25a-0f30a6510256",
+        "type": "message",
+        "text": "alguien se le ocurre que puede ser?",
+        "user": "U03SV4201DH",
+        "ts": "1661200915.287349",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "505687f6a516",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936934289264_505687f6a5169290d00e_72.png",
+            "first_name": "Diego",
+            "real_name": "Diego Crespo",
+            "display_name": "Diego Crespo",
+            "team": "T03SKQNH0KY",
+            "name": "prdiego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N75",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alguien se le ocurre que puede ser?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661200915.287349",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1661201002.418359",
+        "reply_users": [
+            "U03SNJ46M38",
+            "U03SV6T6ATC",
+            "U03SV4201DH"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661200963.504399"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661200982.628719"
+            },
+            {
+                "user": "U03SV6T6ATC",
+                "ts": "1661200988.406309"
+            },
+            {
+                "user": "U03SV6T6ATC",
+                "ts": "1661200996.348089"
+            },
+            {
+                "user": "U03SV4201DH",
+                "ts": "1661201002.418359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "225757a9-b1ab-48e3-a86a-2ee136668351",
+        "type": "message",
+        "text": "mmm",
+        "user": "U03SV6T6ATC",
+        "ts": "1661200959.280079",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZlb5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mmm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bfa7dd0-50a5-4e87-af9a-8c32944ea88b",
+        "type": "message",
+        "text": "el espacio quizas?",
+        "user": "U03SV6T6ATC",
+        "ts": "1661200962.690999",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el espacio quizas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9662c12-1a76-404e-961c-6045f035a19f",
+        "type": "message",
+        "text": "pone el Back con minuscula",
+        "user": "U03SNJ46M38",
+        "ts": "1661200963.504399",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9h3Ye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pone el Back con minuscula"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661200915.287349",
+        "parent_user_id": "U03SV4201DH"
+    },
+    {
+        "client_msg_id": "4ce2fdf0-dde6-4a6d-88b9-1078450c8622",
+        "type": "message",
+        "text": "aplicarCallback",
+        "user": "U03SNJ46M38",
+        "ts": "1661200982.628719",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m0bu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aplicarCallback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661200915.287349",
+        "parent_user_id": "U03SV4201DH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SBS2LU79"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51d60fb2-7b22-495f-84a6-0f3e457a19f6",
+        "type": "message",
+        "text": "ah claro",
+        "user": "U03SV6T6ATC",
+        "ts": "1661200988.406309",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S3\/Al",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah claro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661200915.287349",
+        "parent_user_id": "U03SV4201DH"
+    },
+    {
+        "client_msg_id": "22269611-8be3-48df-8188-fc3de17f0b5c",
+        "type": "message",
+        "text": "ahi seguro te va a funcionar",
+        "user": "U03SV6T6ATC",
+        "ts": "1661200996.348089",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahi seguro te va a funcionar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661200915.287349",
+        "parent_user_id": "U03SV4201DH"
+    },
+    {
+        "client_msg_id": "c3152c9a-fb26-46aa-b5fb-f80ce714a09d",
+        "type": "message",
+        "text": "si es eso gracias! , lo copie del ejemplo el nombre y no del enunciado de arriba",
+        "user": "U03SV4201DH",
+        "ts": "1661201002.418359",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "505687f6a516",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936934289264_505687f6a5169290d00e_72.png",
+            "first_name": "Diego",
+            "real_name": "Diego Crespo",
+            "display_name": "Diego Crespo",
+            "team": "T03SKQNH0KY",
+            "name": "prdiego",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=xV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si es eso gracias! , lo copie del ejemplo el nombre y no del enunciado de arriba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661200915.287349",
+        "parent_user_id": "U03SV4201DH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38",
+                    "U03SBS2LU79"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57a85381-b62b-4ee6-a004-635cadf1afbc",
+        "type": "message",
+        "text": "Hola perdon que recien lo veo, como vos decis tendrias que usar estudiantes como el parametro del Callback. Entonces ahi te quedaria return estudiantes.aprobado == true",
+        "user": "U03SBS2LU79",
+        "ts": "1661201649.164499",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "fbc0fea9e3c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3896752972823_fbc0fea9e3c325e6ed32_72.jpg",
+            "first_name": "Rodrigo",
+            "real_name": "Rodrigo Guiñazú",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "rodrigo.guinazu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=5Edo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola perdon que recien lo veo, como vos decis tendrias que usar estudiantes como el parametro del Callback. Entonces ahi te quedaria return estudiantes.aprobado == true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661194924.684619",
+        "parent_user_id": "U03SEK3QWJ3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SEK3QWJ3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Gente alguien sabe porque no me reconoce el getDay?",
+        "files": [
+            {
+                "id": "F03URHJM0F6",
+                "created": 1661202703,
+                "timestamp": 1661202703,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03T7RCU481",
+                "editable": false,
+                "size": 24467,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03URHJM0F6\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03URHJM0F6\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03URHJM0F6-29ca49837f\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03URHJM0F6-29ca49837f\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03URHJM0F6-29ca49837f\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 184,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03URHJM0F6-29ca49837f\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 245,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03URHJM0F6-29ca49837f\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "original_w": 714,
+                "original_h": 365,
+                "thumb_tiny": "AwAYADDQ+bPel59DWQbiQf8ALVvxY0z7TLn\/AFr\/APfVA7m1z70c+9Y\/2mU9JJPzpvnzf89ZP++qAubXPvRz71i+fN\/z1k\/76o8+YdZZP++qAuRt1pKVutJQIFxnmnZHrTKKAHZFNoooA\/\/Z",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03T7RCU481\/F03URHJM0F6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03URHJM0F6-1777fd6173",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03T7RCU481",
+        "display_as_bot": false,
+        "ts": "1661202705.977379",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzAtM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gente alguien sabe porque no me reconoce el getDay?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9d2deaef-00d6-46f6-8e35-c5734de94d2c",
+        "thread_ts": "1661202705.977379",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1661202875.400689",
+        "reply_users": [
+            "U03SNJ46M38",
+            "U03T7RCU481"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661202755.096869"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1661202765.267149"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1661202781.259779"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1661202782.839929"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661202865.985869"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661202875.400689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "76a2ed65-cddc-4137-b01d-9aeece747d30",
+        "type": "message",
+        "text": "creo q es getDate",
+        "user": "U03SNJ46M38",
+        "ts": "1661202755.096869",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3sh2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo q es getDate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661202705.977379",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "f520fd43-2eae-4863-b191-06ee60266338",
+        "type": "message",
+        "text": "Sisis con eso si me lo tomo",
+        "user": "U03T7RCU481",
+        "ts": "1661202765.267149",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sisis con eso si me lo tomo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661202705.977379",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "11b0b802-122c-47af-a825-91672fdbec13",
+        "type": "message",
+        "text": "igualmente me parecio raro porque getDay existe y esta en el powerpoint jasjasjd",
+        "user": "U03T7RCU481",
+        "ts": "1661202781.259779",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6i6x\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "igualmente me parecio raro porque getDay existe y esta en el powerpoint jasjasjd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661202705.977379",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "7a4df9a1-67f2-410c-b8a8-4c637f630b98",
+        "type": "message",
+        "text": "gracias igual",
+        "user": "U03T7RCU481",
+        "ts": "1661202782.839929",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+dz5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias igual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661202705.977379",
+        "parent_user_id": "U03T7RCU481",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be611f7f-c324-4ce3-b856-50ba7374605d",
+        "type": "message",
+        "text": "el getDay te devuelve un numero del dia en la semana\nel getDate de devuelve el numero del dia del mes",
+        "user": "U03SNJ46M38",
+        "ts": "1661202865.985869",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03SNJ46M38",
+            "ts": "1661202911.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bY+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el getDay te devuelve un numero del dia en la semana\nel getDate de devuelve el numero del dia del mes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661202705.977379",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "f682b506-abf8-4f01-b82a-0b3a7d78e746",
+        "type": "message",
+        "text": "ahi lo busque",
+        "user": "U03SNJ46M38",
+        "ts": "1661202875.400689",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PwDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahi lo busque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661202705.977379",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "f7f6d696-8be4-45d3-a0f8-9a1ef493a630",
+        "type": "message",
+        "text": "a alguno le salio el primero de destructuring por que es el unico que me falta",
+        "user": "U03SS9RAPA9",
+        "ts": "1661204672.359659",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "538674f81074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915729528468_538674f810742b8908c2_72.png",
+            "first_name": "santiago",
+            "real_name": "santiago valentin",
+            "display_name": "santiago valentin",
+            "team": "T03SKQNH0KY",
+            "name": "santiagovalentin100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Mfd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a alguno le salio el primero de destructuring por que es el unico que me falta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1661206550.616789",
+        "reply_users": [
+            "U03SNJ46M38",
+            "U03SNJ681F0",
+            "U03SS9RAPA9",
+            "U03TJTJFR3J",
+            "U03SEKAKW8P"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661204740.747889"
+            },
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661204767.484379"
+            },
+            {
+                "user": "U03SNJ681F0",
+                "ts": "1661204817.447819"
+            },
+            {
+                "user": "U03SS9RAPA9",
+                "ts": "1661205234.832859"
+            },
+            {
+                "user": "U03SS9RAPA9",
+                "ts": "1661205286.838169"
+            },
+            {
+                "user": "U03TJTJFR3J",
+                "ts": "1661205800.526199"
+            },
+            {
+                "user": "U03SEKAKW8P",
+                "ts": "1661206550.616789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b78abb9f-5807-4048-9fba-963c5f6c787d",
+        "type": "message",
+        "text": "let [a,b,c,d]= destinos",
+        "user": "U03SNJ46M38",
+        "ts": "1661204740.747889",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXgiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let [a,b,c,d]= destinos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9"
+    },
+    {
+        "client_msg_id": "94460fa6-a82c-4df2-82a6-36d0a18e47fb",
+        "type": "message",
+        "text": "igual tenes q ponerle bariloche y china al q es",
+        "user": "U03SNJ46M38",
+        "ts": "1661204767.484379",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1se",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "igual tenes q ponerle bariloche y china al q es"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9"
+    },
+    {
+        "client_msg_id": "a61fc235-8b05-4688-a2ee-f24a2ba4d95d",
+        "type": "message",
+        "text": "y dejar el espacio vacio de los demas elementos",
+        "user": "U03SNJ681F0",
+        "ts": "1661204817.447819",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "946198d72683",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675652676_946198d72683a94f5263_72.jpg",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Castiglioni",
+            "display_name": "Nicolas Castiglioni",
+            "team": "T03SKQNH0KY",
+            "name": "nicolascastiglioni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=xuJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y dejar el espacio vacio de los demas elementos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9dc00749-2272-457f-abad-321de872fe99",
+        "type": "message",
+        "text": "Hola Athina. También con los espacios vacios con comas, que te ocupan los espacios.                    let [, bariloche, , china, ,] = destinosDelMundo",
+        "user": "U03SV3ZEV51",
+        "ts": "1661204900.219049",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g2a2adfe1fa3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a2adfe1fa3a0c92bf3ca7c2f6cf7591.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Peretti",
+            "display_name": "Juan Pablo Peretti",
+            "team": "T03SKQNH0KY",
+            "name": "juanpabloperetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UvSp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Athina. También con los espacios vacios con comas, que te ocupan los espacios.                    let [, bariloche, , china, ,] = destinosDelMundo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661184880.693009",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "7e308e88-609a-4cb1-8c19-d7e4f46839c0",
+        "type": "message",
+        "text": "ah okey tengo que poner bariloche y china pero los demas ponerlos con espacios vacios separados entre comas",
+        "user": "U03SS9RAPA9",
+        "ts": "1661205234.832859",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "538674f81074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915729528468_538674f810742b8908c2_72.png",
+            "first_name": "santiago",
+            "real_name": "santiago valentin",
+            "display_name": "santiago valentin",
+            "team": "T03SKQNH0KY",
+            "name": "santiagovalentin100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rENpQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah okey tengo que poner bariloche y china pero los demas ponerlos con espacios vacios separados entre comas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0119ea8-d301-4435-ba0b-989c9ffb21e3",
+        "type": "message",
+        "text": "gracias",
+        "user": "U03SS9RAPA9",
+        "ts": "1661205286.838169",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "538674f81074",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915729528468_538674f810742b8908c2_72.png",
+            "first_name": "santiago",
+            "real_name": "santiago valentin",
+            "display_name": "santiago valentin",
+            "team": "T03SKQNH0KY",
+            "name": "santiagovalentin100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7lo8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9"
+    },
+    {
+        "client_msg_id": "d97ac8f9-08af-4fe6-9602-784b55b5df94",
+        "type": "message",
+        "text": "`let destinosDelMundo = ['Marruecos', 'Bariloche', 'Barcelona', 'China', 'Grecia']`\n\nlet [marruecos, bariloche, barcelona, china] = destinosDelMundo;\n\nconsole.log(destinosDelMundo);\nconsole.log(bariloche);\nconsole.log(china);",
+        "user": "U03TJTJFR3J",
+        "ts": "1661205800.526199",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "f5d6304acafd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898657178535_f5d6304acafd6bb4b312_72.png",
+            "first_name": "Delfina",
+            "real_name": "Delfina Bellagio",
+            "display_name": "Delfina Bellagio",
+            "team": "T03SKQNH0KY",
+            "name": "delfibell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let destinosDelMundo = ['Marruecos', 'Bariloche', 'Barcelona', 'China', 'Grecia']",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nlet [marruecos, bariloche, barcelona, china] = destinosDelMundo;\n\nconsole.log(destinosDelMundo);\nconsole.log(bariloche);\nconsole.log(china);"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9"
+    },
+    {
+        "client_msg_id": "22e90927-4626-4f15-86be-f4e9ed7e46f2",
+        "type": "message",
+        "text": "Yo lo hice asi:\n\nlet destinosDelMundo = ['Marruecos', 'Bariloche', 'Barcelona', 'China', 'Grecia']\nlet [ , bariloche, , china, ] = destinosDelMundo;\n\nDejando los espacios \"vacíos\" en los que no pedía",
+        "user": "U03SEKAKW8P",
+        "ts": "1661206550.616789",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g1357154ad72",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1357154ad725f9b6279ebcb74c955dde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Facundo",
+            "real_name": "Facundo Nahuel Vega Laricchia",
+            "display_name": "Facundo Nahuel Vega Laricchia",
+            "team": "T03SKQNH0KY",
+            "name": "facundovega97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo lo hice asi:\n\nlet destinosDelMundo = ['Marruecos', 'Bariloche', 'Barcelona', 'China', 'Grecia']\nlet [ , bariloche, , china, ] = destinosDelMundo;\n\nDejando los espacios \"vacíos\" en los que no pedía"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661204672.359659",
+        "parent_user_id": "U03SS9RAPA9"
+    }
+]

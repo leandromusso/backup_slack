@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "e00ad9e8-e97d-417e-9d1f-446d067869dc",
+        "type": "message",
+        "text": "Hola! Recuerdo que en alguna parte de playground vi que había un cuadrito de sugerencia para ir haciendo un resumen de lo aprendido y su funcionalidad, pero ahora no puedo encontrarlo. Alguno lo vio y recuerda a dónde estaba?",
+        "user": "U03SV456JTV",
+        "ts": "1661286535.484399",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "75c5b8cb247d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915679866020_75c5b8cb247d46ddc2e1_72.jpg",
+            "first_name": "Delfina",
+            "real_name": "Delfina Castro S",
+            "display_name": "Delfina Castro S",
+            "team": "T03SKQNH0KY",
+            "name": "delfinacastrosam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQQh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! Recuerdo que en alguna parte de playground vi que había un cuadrito de sugerencia para ir haciendo un resumen de lo aprendido y su funcionalidad, pero ahora no puedo encontrarlo. Alguno lo vio y recuerda a dónde estaba?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661286535.484399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1661286969.227129",
+        "reply_users": [
+            "U03SNJ681F0"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ681F0",
+                "ts": "1661286969.227129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f1e8264f-2529-405a-99f5-e15c890736f7",
+        "type": "message",
+        "text": "En repaso de funciones, condicionales y arrays, en la parte \"Hacia la clase en vivo\"",
+        "user": "U03SNJ681F0",
+        "ts": "1661286969.227129",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "946198d72683",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675652676_946198d72683a94f5263_72.jpg",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Castiglioni",
+            "display_name": "Nicolas Castiglioni",
+            "team": "T03SKQNH0KY",
+            "name": "nicolascastiglioni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En repaso de funciones, condicionales y arrays, en la parte \"Hacia la clase en vivo\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661286535.484399",
+        "parent_user_id": "U03SV456JTV",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03SV456JTV",
+                    "U03TJTBRNDN"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

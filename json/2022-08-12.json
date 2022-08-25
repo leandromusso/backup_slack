@@ -1,0 +1,238 @@
+[
+    {
+        "client_msg_id": "bf53cc3c-816f-4194-81bf-c3afbc6871f5",
+        "type": "message",
+        "text": "Hola, se sube al slack la clase del miércoles??????",
+        "user": "U03TJTFNL5N",
+        "ts": "1660317395.675579",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "7a74fe5f6fa1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898654416823_7a74fe5f6fa14bbe7795_72.jpg",
+            "first_name": "juan",
+            "real_name": "juan martín morganti",
+            "display_name": "juan martín morganti",
+            "team": "T03SKQNH0KY",
+            "name": "jmmorganti76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K1\/Eq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, se sube al slack la clase del miércoles??????"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660317395.675579",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1660318086.220549",
+        "reply_users": [
+            "U03SBS2LU79",
+            "U03TJTFNL5N",
+            "U03SKR197C6"
+        ],
+        "replies": [
+            {
+                "user": "U03SBS2LU79",
+                "ts": "1660317456.089539"
+            },
+            {
+                "user": "U03TJTFNL5N",
+                "ts": "1660317476.246179"
+            },
+            {
+                "user": "U03SKR197C6",
+                "ts": "1660318022.004769"
+            },
+            {
+                "user": "U03TJTFNL5N",
+                "ts": "1660318086.220549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6FBFB15D-8415-4533-B9CA-DBF6F1860B62",
+        "type": "message",
+        "text": "En el playground esta el apartado de zoom y grabaciones, ahi se suben automaticamente las grabaciones de las clases",
+        "user": "U03SBS2LU79",
+        "ts": "1660317456.089539",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "fbc0fea9e3c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3896752972823_fbc0fea9e3c325e6ed32_72.jpg",
+            "first_name": "Rodrigo",
+            "real_name": "Rodrigo Guiñazú",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "rodrigo.guinazu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0wSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En el playground esta el apartado de zoom y grabaciones, ahi se suben automaticamente las grabaciones de las clases"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660317395.675579",
+        "parent_user_id": "U03TJTFNL5N"
+    },
+    {
+        "client_msg_id": "05257907-04a4-436e-af25-bf42569ed88f",
+        "type": "message",
+        "text": "Ok gracias",
+        "user": "U03TJTFNL5N",
+        "ts": "1660317476.246179",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "7a74fe5f6fa1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898654416823_7a74fe5f6fa14bbe7795_72.jpg",
+            "first_name": "juan",
+            "real_name": "juan martín morganti",
+            "display_name": "juan martín morganti",
+            "team": "T03SKQNH0KY",
+            "name": "jmmorganti76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOo=i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok gracias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660317395.675579",
+        "parent_user_id": "U03TJTFNL5N"
+    },
+    {
+        "client_msg_id": "1fd47aa4-131a-44a2-900e-72fec058065a",
+        "type": "message",
+        "text": "Se suben automáticamente a las 24hs de la clase, si ven que pasaron 48 y NO están avísenos, porque suele fallar la carga y tenemos que hacerlo manualmente.",
+        "user": "U03SKR197C6",
+        "ts": "1660318022.004769",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "3bc2367f018b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906242432198_3bc2367f018b836752c4_72.jpg",
+            "first_name": "Rocío",
+            "real_name": "Rocío Alvarez",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "rocio.alvarez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/xN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se suben automáticamente a las 24hs de la clase, si ven que pasaron 48 y NO están avísenos, porque suele fallar la carga y tenemos que hacerlo manualmente."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660317395.675579",
+        "parent_user_id": "U03TJTFNL5N"
+    },
+    {
+        "client_msg_id": "e516fd7f-d835-4e52-aeae-90200e6ece5e",
+        "type": "message",
+        "text": "Ya las encontré, gracias Rodrigo y Rocio",
+        "user": "U03TJTFNL5N",
+        "ts": "1660318086.220549",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "7a74fe5f6fa1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898654416823_7a74fe5f6fa14bbe7795_72.jpg",
+            "first_name": "juan",
+            "real_name": "juan martín morganti",
+            "display_name": "juan martín morganti",
+            "team": "T03SKQNH0KY",
+            "name": "jmmorganti76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhRwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya las encontré, gracias Rodrigo y Rocio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660317395.675579",
+        "parent_user_id": "U03TJTFNL5N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SBS2LU79"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

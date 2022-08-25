@@ -1,0 +1,425 @@
+[
+    {
+        "client_msg_id": "de62f9c6-912b-40bc-ab3a-41106fc6cd7a",
+        "type": "message",
+        "text": "Consulta! el this. luego del igual es necesario ya que queremos el valor original correcto? Ya que lo habia puesto sin this.",
+        "user": "U03SNJ3AWSJ",
+        "ts": "1661015333.535649",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "79b58588f12a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3936930398992_79b58588f12a1d37753c_72.png",
+            "first_name": "Nicolás",
+            "real_name": "Nicolás Comas",
+            "display_name": "Nicolás Comas",
+            "team": "T03SKQNH0KY",
+            "name": "comasnicolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oUpW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consulta! el this. luego del igual es necesario ya que queremos el valor original correcto? Ya que lo habia puesto sin this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660747316.442989",
+        "parent_user_id": "U03SV6Y1UFL"
+    },
+    {
+        "client_msg_id": "4b42fcc8-4939-4073-949f-a7a70d52a241",
+        "type": "message",
+        "text": "function loro (texto){\nfor (let i = 0; i &lt;= 5; i ++) {\n    }\n}",
+        "user": "U03T45VH5T7",
+        "ts": "1661037483.295889",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHfqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function loro (texto){\nfor (let i = 0; i <= 5; i ++) {\n    }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "b9dc6145-eed6-4c11-9e83-9f12744cccf3",
+        "type": "message",
+        "text": "que estoy haciendo mal? :disappointed:",
+        "user": "U03T45VH5T7",
+        "ts": "1661037487.501629",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que estoy haciendo mal? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "dc36af60-d79c-4370-b4e7-b6ae2d25c958",
+        "type": "message",
+        "text": "si es i&lt;= a 5 i tiene que empezar de 1",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661037955.362299",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cFY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si es i<= a 5 i tiene que empezar de 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "425dbc6b-e7f0-481c-b347-44524608068b",
+        "type": "message",
+        "text": "porq sino arranca en 0, 1, 2, 3, 4, 5",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661038007.192869",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "porq sino arranca en 0, 1, 2, 3, 4, 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03T45VH5T7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02f4572f-ef7e-4962-a494-606eeba8991f",
+        "type": "message",
+        "text": "pero puse let i=1",
+        "user": "U03T45VH5T7",
+        "ts": "1661038084.084599",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vqkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero puse let i=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "08c369f7-9c03-4cad-8c43-c7444f63bff6",
+        "type": "message",
+        "text": "y me da mal tamb",
+        "user": "U03T45VH5T7",
+        "ts": "1661038133.916949",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y me da mal tamb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "1ff68c8c-603b-4754-b2c4-ae2a7dce5125",
+        "type": "message",
+        "text": "function loro (texto){\nfor (let i = 1; i &lt;= 5; i ++) {\n    }\n}",
+        "user": "U03T45VH5T7",
+        "ts": "1661038156.791319",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZun",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function loro (texto){\nfor (let i = 1; i <= 5; i ++) {\n    }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "66562970-1c5a-42a6-ab15-72d194233c4e",
+        "type": "message",
+        "text": "y en return como lo pones?",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661039543.912519",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=tY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y en return como lo pones?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "728943bb-9d80-4acc-98e1-397312440ac0",
+        "type": "message",
+        "text": "si tenes solo eso puesto, solo va a repetirse el ciclo hasta llegar a 5. pero tenes que hacer que imprima ese texto 5 veces",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661039815.491929",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CbIJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tenes solo eso puesto, solo va a repetirse el ciclo hasta llegar a 5. pero tenes que hacer que imprima ese texto 5 veces"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03T45VH5T7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

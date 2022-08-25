@@ -1,0 +1,1373 @@
+[
+    {
+        "client_msg_id": "0559fe76-7f7b-4b95-9999-5d2003be0544",
+        "type": "message",
+        "text": "Buenas! Alguien hizo el ejercicio de “Pasar un callback reloaded”? Estuve viendo que hay varias formas de hacerlo, utilizando ciclos, o usando .map . Es asi? o hay alguna manera mas simple?",
+        "user": "U03SS85GX0V",
+        "ts": "1661072248.559409",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "dcfac8d5105f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898654026103_dcfac8d5105f3a239088_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Torres",
+            "display_name": "Santiago Torres",
+            "team": "T03SKQNH0KY",
+            "name": "santitorres28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Neu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenas! Alguien hizo el ejercicio de “Pasar un callback reloaded”? Estuve viendo que hay varias formas de hacerlo, utilizando ciclos, o usando .map . Es asi? o hay alguna manera mas simple?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "reply_count": 20,
+        "reply_users_count": 6,
+        "latest_reply": "1661184145.937239",
+        "reply_users": [
+            "U03SXKW6YHJ",
+            "U03TJTHBQBS",
+            "U03SS81TT4M",
+            "U03SEK5GNBZ",
+            "U03TJTJFR3J",
+            "U03TJTCSPMW"
+        ],
+        "replies": [
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1661088037.955499"
+            },
+            {
+                "user": "U03TJTHBQBS",
+                "ts": "1661110523.775019"
+            },
+            {
+                "user": "U03TJTHBQBS",
+                "ts": "1661110558.223859"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661110944.748549"
+            },
+            {
+                "user": "U03SEK5GNBZ",
+                "ts": "1661119741.301679"
+            },
+            {
+                "user": "U03SEK5GNBZ",
+                "ts": "1661119775.087019"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661119830.909619"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661119833.565939"
+            },
+            {
+                "user": "U03SEK5GNBZ",
+                "ts": "1661120157.844269"
+            },
+            {
+                "user": "U03SEK5GNBZ",
+                "ts": "1661120184.107359"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661120190.296699"
+            },
+            {
+                "user": "U03TJTJFR3J",
+                "ts": "1661120440.623919"
+            },
+            {
+                "user": "U03TJTHBQBS",
+                "ts": "1661124624.708829"
+            },
+            {
+                "user": "U03TJTHBQBS",
+                "ts": "1661124635.901969"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661183928.887399"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661183941.304019"
+            },
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1661184006.451499"
+            },
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1661184088.832989"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1661184099.197229"
+            },
+            {
+                "user": "U03TJTCSPMW",
+                "ts": "1661184145.937239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a0e9ab79-59b1-4be9-b4b2-73e2a9c42446",
+        "type": "message",
+        "text": "yo lo hice con ciclos porq el .map seria el tema siguiente",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661088037.955499",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo hice con ciclos porq el .map seria el tema siguiente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "type": "message",
+        "text": "Hola! Me esta tirando error, y no se que esta mal. Alguno me puede ayudar? :sweat_smile:",
+        "files": [
+            {
+                "id": "F03V730HAQY",
+                "created": 1661103020,
+                "timestamp": 1661103020,
+                "name": "Captura de Pantalla 2022-08-21 a la(s) 20.30.13.png",
+                "title": "Captura de Pantalla 2022-08-21 a la(s) 20.30.13.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03SS85GX0V",
+                "editable": false,
+                "size": 156463,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03V730HAQY\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03V730HAQY\/download\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 257,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 342,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 513,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_800.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 570,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_960.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 684,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03V730HAQY-a96df43c14\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13_1024.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 730,
+                "original_w": 1770,
+                "original_h": 1262,
+                "thumb_tiny": "AwAiADC39phGf3o\/I0guoOvmj8jWS5O4\/Wmgn1NA7mx9st\/+eo\/I0fbLf\/nqPyNZP\/AqQ+xoC5r\/AGy3\/wCeo\/I0C7gJAEoyfY1j5NLGT5i\/UUBcH++frSA4NK\/3z9abQIcWpNxpKKAFpY\/9Yv1FNp0f+sX6igCwyruPyjr6U3av90flT2+8frSUAN2r\/dH5UbV\/uj8qdRQA3av90flTkVd6\/KOo7UUqffX6igD\/2Q==",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03SS85GX0V\/F03V730HAQY\/captura_de_pantalla_2022-08-21_a_la_s__20.30.13.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03V730HAQY-4553124e51",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03SS85GX0V",
+        "display_as_bot": false,
+        "ts": "1661103096.039789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! Me esta tirando error, y no se que esta mal. Alguno me puede ayudar? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "692850f0-4e37-488a-957e-0ae2cfcfe736",
+        "thread_ts": "1661103096.039789",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1661104082.734899",
+        "reply_users": [
+            "U03SNJ46M38",
+            "U03SS85GX0V"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ46M38",
+                "ts": "1661103911.417759"
+            },
+            {
+                "user": "U03SS85GX0V",
+                "ts": "1661104082.734899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f7e5e57-da09-42c5-ba62-e62629fcadf9",
+        "type": "message",
+        "text": "En ese ejercicio ya tenes declarado el new date en una variable q no te muestra, proba a borrar la linea 1",
+        "user": "U03SNJ46M38",
+        "ts": "1661103911.417759",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "23e468d80a83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3913134995827_23e468d80a830e90a86f_72.jpg",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Ledesma Fabian",
+            "display_name": "Gonzalo Ledesma Fabian",
+            "team": "T03SKQNH0KY",
+            "name": "ledesmagonza648",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En ese ejercicio ya tenes declarado el new date en una variable q no te muestra, proba a borrar la linea 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661103096.039789",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "6751caa9-26b3-41ba-8e88-871ae9d61b8e",
+        "type": "message",
+        "text": "Sos capo! Si era eso. Y sumado a que habia puesto getDay en vez de getDate. Gracias!",
+        "user": "U03SS85GX0V",
+        "ts": "1661104082.734899",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "dcfac8d5105f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898654026103_dcfac8d5105f3a239088_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Torres",
+            "display_name": "Santiago Torres",
+            "team": "T03SKQNH0KY",
+            "name": "santitorres28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BazKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sos capo! Si era eso. Y sumado a que habia puesto getDay en vez de getDate. Gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661103096.039789",
+        "parent_user_id": "U03SS85GX0V",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U03SNJ46M38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39f02f7f-7570-4be7-87df-3125b0f0b87f",
+        "type": "message",
+        "text": "no me sale aun :disappointed:",
+        "user": "U03T45VH5T7",
+        "ts": "1661107902.280099",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KUPab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no me sale aun "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "ad19f729-514f-4cb9-8a89-8653e2e5925f",
+        "type": "message",
+        "text": "function loro (texto){\nfor (let i = 1; i &lt;= 5; i ++) {\n    }\n    return (‘hola’);\n}",
+        "user": "U03T45VH5T7",
+        "ts": "1661108134.756889",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function loro (texto){\nfor (let i = 1; i <= 5; i ++) {\n    }\n    return (‘hola’);\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "74693527-213d-4935-8039-419af5e90cb6",
+        "type": "message",
+        "text": "function noParesDeContarImparesHasta(numero){\n    let cantidad = 0\n    for (let i = 0; i &lt; numero; i++){\n        if (i % 2 !== 0) {\n            cantidad = cantidad + 1;\n        }\n        return (cantidad);\n    }\n}",
+        "user": "U03T45VH5T7",
+        "ts": "1661108268.727939",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nomd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function noParesDeContarImparesHasta(numero){\n    let cantidad = 0\n    for (let i = 0; i < numero; i++){\n        if (i % 2 !== 0) {\n            cantidad = cantidad + 1;\n        }\n        return (cantidad);\n    }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660919080.566069",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "b6dbf2d0-5a79-469e-95a1-8f6f2aaadf1f",
+        "type": "message",
+        "text": "que estoy haciendo mal?",
+        "user": "U03T45VH5T7",
+        "ts": "1661108275.092239",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pj\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que estoy haciendo mal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660919080.566069",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "8914ceb4-6d02-481d-86e5-9f284251f50b",
+        "type": "message",
+        "text": "gracias!",
+        "user": "U03T45VH5T7",
+        "ts": "1661108279.748719",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hb7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660919080.566069",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "bc8b54c1-a33a-42a0-99e4-1fce5b3b7f7e",
+        "type": "message",
+        "text": "Hola! Me pueden dar una mano con el ejercicio? No se donde tengo el error.",
+        "user": "U03TJTHBQBS",
+        "ts": "1661110523.775019",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "5564cfb4ca03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898656042855_5564cfb4ca0348244038_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Manuel Fernández",
+            "display_name": "Juan Manuel Fernández",
+            "team": "T03SKQNH0KY",
+            "name": "juanmanuel.fc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ypAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! Me pueden dar una mano con el ejercicio? No se donde tengo el error."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "0def6527-7580-43e7-93a5-018e71387c7f",
+        "type": "message",
+        "text": "```function agregarHttp(url) {    \n    return \"http:\/\/\" + url;\n}\n\nfunction procesar(array,callback) {\n\n    for (let i=0; i&lt;array.length; i++) {\n        return callback(array[i]);\n    }\n}```",
+        "user": "U03TJTHBQBS",
+        "ts": "1661110558.223859",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "5564cfb4ca03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898656042855_5564cfb4ca0348244038_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Manuel Fernández",
+            "display_name": "Juan Manuel Fernández",
+            "team": "T03SKQNH0KY",
+            "name": "juanmanuel.fc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2cw",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function agregarHttp(url) {    \n    return \"http:\/\/\" + url;\n}\n\nfunction procesar(array,callback) {\n\n    for (let i=0; i<array.length; i++) {\n        return callback(array[i]);\n    }\n}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "cb0188b4-bae9-419b-9a95-f5eeb965727b",
+        "type": "message",
+        "text": "si alguien me puede ayudar con ese mismo le agradezco, la verdad no lo entiendo para nada",
+        "user": "U03SS81TT4M",
+        "ts": "1661110944.748549",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBeNJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si alguien me puede ayudar con ese mismo le agradezco, la verdad no lo entiendo para nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "e61edace-68cd-4721-a5d6-f6fc1b472062",
+        "type": "message",
+        "text": "function agregarHttp(url) {\n    return \"http:\/\/\"+url\n}\n\nfunction procesar(array,callback){\n\n    for (let i=0;i&lt;array.length;i++){\n      array[i]=  callback(array[i])\n    }return array\n\n\n    \/\/ escribí tu código aquí\n    \/\/ recuerda iterar en cada uno de los elementos del array. Eso lo podes hacer utilizando...\n}",
+        "user": "U03SEK5GNBZ",
+        "ts": "1661119741.301679",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "gd334213c99c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d334213c99c77a5d612f067a6d334b6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "sebastian",
+            "real_name": "sebastian mario",
+            "display_name": "sebastian mario",
+            "team": "T03SKQNH0KY",
+            "name": "ssebastianmario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h60+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function agregarHttp(url) {\n    return \"http:\/\/\"+url\n}\n\nfunction procesar(array,callback){\n\n    for (let i=0;i<array.length;i++){\n      array[i]=  callback(array[i])\n    }return array\n\n\n    \/\/ escribí tu código aquí\n    \/\/ recuerda iterar en cada uno de los elementos del array. Eso lo podes hacer utilizando...\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "45260c17-7d87-4405-9890-1332c42b0135",
+        "type": "message",
+        "text": "yo lo hice asi, tambien me lo tomo si escribis agregarHttp en vez de callback",
+        "user": "U03SEK5GNBZ",
+        "ts": "1661119775.087019",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "gd334213c99c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d334213c99c77a5d612f067a6d334b6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "sebastian",
+            "real_name": "sebastian mario",
+            "display_name": "sebastian mario",
+            "team": "T03SKQNH0KY",
+            "name": "ssebastianmario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bY0e3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo hice asi, tambien me lo tomo si escribis agregarHttp en vez de callback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "f561d739-0707-4cac-afd5-0a2eb2d802fa",
+        "type": "message",
+        "text": "return texto, porq la funcion puede recibir cualquier string",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661119795.643569",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "return texto, porq la funcion puede recibir cualquier string"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "7339c6b0-14da-440c-aef0-5be3d44a1662",
+        "type": "message",
+        "text": "claro yo lo habia hecho de esa manera pero no me daba, claramente algo distinto estaria haciendo pero no se bien que jajaja",
+        "user": "U03SS81TT4M",
+        "ts": "1661119830.909619",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ru1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "claro yo lo habia hecho de esa manera pero no me daba, claramente algo distinto estaria haciendo pero no se bien que jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "1804488c-3b96-4822-a7bb-aaeb8889ee67",
+        "type": "message",
+        "text": "gracias!",
+        "user": "U03SS81TT4M",
+        "ts": "1661119833.565939",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "caa1f112-e316-40e0-9bc3-03581664451e",
+        "type": "message",
+        "text": "me parece que es que pusiste el return dentro del ciclo for",
+        "user": "U03SEK5GNBZ",
+        "ts": "1661120157.844269",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "gd334213c99c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d334213c99c77a5d612f067a6d334b6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "sebastian",
+            "real_name": "sebastian mario",
+            "display_name": "sebastian mario",
+            "team": "T03SKQNH0KY",
+            "name": "ssebastianmario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jeaNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me parece que es que pusiste el return dentro del ciclo for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "2d2acc57-63cd-40b1-bb84-7ee5c55f397d",
+        "type": "message",
+        "text": "porque al principio yo lo hice asi y no anduvo",
+        "user": "U03SEK5GNBZ",
+        "ts": "1661120184.107359",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "gd334213c99c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d334213c99c77a5d612f067a6d334b6c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "sebastian",
+            "real_name": "sebastian mario",
+            "display_name": "sebastian mario",
+            "team": "T03SKQNH0KY",
+            "name": "ssebastianmario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYu57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "porque al principio yo lo hice asi y no anduvo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "ba4dfd81-bc86-4950-99ad-e953b00f4a6d",
+        "type": "message",
+        "text": "si, una cosa era eso y otra que estaba poniendo mal el array[i] = callback(array[i])",
+        "user": "U03SS81TT4M",
+        "ts": "1661120190.296699",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03SS81TT4M",
+            "ts": "1661120228.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, una cosa era eso y otra que estaba poniendo mal el array[i] = callback(array[i])"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "68e3f11e-8d1f-4a30-b6cb-d15501d347f4",
+        "type": "message",
+        "text": "me sigue tirando error",
+        "user": "U03T45VH5T7",
+        "ts": "1661120388.323929",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me sigue tirando error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "bdccd243-1933-43d7-8832-2930f3926016",
+        "type": "message",
+        "text": "function loro (texto){\nfor (let i = 1; i &lt;= 5; i ++) {\n    }\n    return (texto);\n}",
+        "user": "U03T45VH5T7",
+        "ts": "1661120397.467419",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DdQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function loro (texto){\nfor (let i = 1; i <= 5; i ++) {\n    }\n    return (texto);\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "41fa5304-5564-4d02-8088-a1eff4e162b0",
+        "type": "message",
+        "text": "`function agregarHttp(url) {`\n    return “http:\/\/” + url;\n}\n\nfunction procesar(arrayUrls,callback){\n    let urls = [];\n    for(let i=0;i&lt;arrayUrls.length;i++) {\n        urls.push(callback(arrayUrls[i]));\n    }\n    return urls;\n}\n\nprocesar([“<http:\/\/www.google.com|www.google.com>”,“<http:\/\/www.yahoo.com|www.yahoo.com>”], agregarHttp)",
+        "user": "U03TJTJFR3J",
+        "ts": "1661120440.623919",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "f5d6304acafd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898657178535_f5d6304acafd6bb4b312_72.png",
+            "first_name": "Delfina",
+            "real_name": "Delfina Bellagio",
+            "display_name": "Delfina Bellagio",
+            "team": "T03SKQNH0KY",
+            "name": "delfibell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IiV6Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function agregarHttp(url) {",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n    return “http:\/\/” + url;\n}\n\nfunction procesar(arrayUrls,callback){\n    let urls = [];\n    for(let i=0;i<arrayUrls.length;i++) {\n        urls.push(callback(arrayUrls[i]));\n    }\n    return urls;\n}\n\nprocesar([“"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.google.com",
+                                "text": "www.google.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "”,“"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.yahoo.com",
+                                "text": "www.yahoo.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "”], agregarHttp)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "3a2934ab-c0f7-4a2b-9487-40eedc96d570",
+        "type": "message",
+        "text": "te falta cambiar el return por consol.log",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661120648.778149",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ag+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "te falta cambiar el return por consol.log"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "94b75d7d-d41e-4dc9-bd8f-3b4ef7fcfa55",
+        "type": "message",
+        "text": "la funcion tiene q pasarlo por consola",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661120671.928199",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la funcion tiene q pasarlo por consola"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "14f090cc-30e2-4370-bec0-52e25abc8573",
+        "type": "message",
+        "text": "dentro de las llaves del for",
+        "user": "U03SXKW6YHJ",
+        "ts": "1661120791.810349",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dentro de las llaves del for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660694055.443129",
+        "parent_user_id": "U03SXKSCJR2"
+    },
+    {
+        "client_msg_id": "90e28ae2-2b72-4d2c-b45d-c2005b63039f",
+        "type": "message",
+        "text": "Me dio una mano <@U03SXKW6YHJ>, lo resolví de esta manera.",
+        "user": "U03TJTHBQBS",
+        "ts": "1661124624.708829",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "5564cfb4ca03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898656042855_5564cfb4ca0348244038_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Manuel Fernández",
+            "display_name": "Juan Manuel Fernández",
+            "team": "T03SKQNH0KY",
+            "name": "juanmanuel.fc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2hlE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me dio una mano "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03SXKW6YHJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", lo resolví de esta manera."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    },
+    {
+        "client_msg_id": "940ffa17-edb0-45ad-bac0-a232a15a4b5d",
+        "type": "message",
+        "text": "```function procesar(array,callback) {\n\n    let resultado = [];\n    for (let i=0; i&lt;array.length; i++) {\n        resultado.push(callback(array[i]));\n    }\n    return resultado;\n\n}```",
+        "user": "U03TJTHBQBS",
+        "ts": "1661124635.901969",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "5564cfb4ca03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898656042855_5564cfb4ca0348244038_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Manuel Fernández",
+            "display_name": "Juan Manuel Fernández",
+            "team": "T03SKQNH0KY",
+            "name": "juanmanuel.fc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFO",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "function procesar(array,callback) {\n\n    let resultado = [];\n    for (let i=0; i<array.length; i++) {\n        resultado.push(callback(array[i]));\n    }\n    return resultado;\n\n}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1661072248.559409",
+        "parent_user_id": "U03SS85GX0V"
+    }
+]

@@ -1,0 +1,3664 @@
+[
+    {
+        "client_msg_id": "84452b33-c6b0-4e5d-8220-9bb9be82ff7e",
+        "type": "message",
+        "text": "Buenos Días Compas; Alguien pudo hacer este ejercicio? Tipos de Datos----&gt;Number                                                                          Sabiendo esto, creemos tres variables utilizando la función Number(), las mismas se deberán llamar positivo, negativo y decimal. Cada una de ellas deberá almacenar un número que se corresponda con su nombre. En la variable positivo, almacenar un número positivo; en la variable  negativo, almacenar un número negativo; y en la variable decimal, almacenar un número decimal.                                         let positivo = Number(23)\nlet negativo = Number(-12)\nlet decimal = Number(12.12)                                                                                                                Después hay que crear una function Number() para que me den los resultados?",
+        "user": "U03SV3ZEV51",
+        "ts": "1660568149.500609",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g2a2adfe1fa3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a2adfe1fa3a0c92bf3ca7c2f6cf7591.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Peretti",
+            "display_name": "Juan Pablo Peretti",
+            "team": "T03SKQNH0KY",
+            "name": "juanpabloperetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenos Días Compas; Alguien pudo hacer este ejercicio? Tipos de Datos---->Number                                                                          Sabiendo esto, creemos tres variables utilizando la función Number(),"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "las mismas se deberán llamar positivo, negativo y decimal. Cada una de ellas deberá almacenar un número que se corresponda con su nombre. En la variable positivo, almacenar un número positivo; en la variable  negativo, almacenar un número negativo; y en la variable decimal, almacenar un número decimal.                                         let positivo = Number(23)\nlet negativo = Number(-12)\nlet decimal = Number(12.12)                                                                                                                Después hay que crear una function Number() para que me den los resultados?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "reply_count": 12,
+        "reply_users_count": 4,
+        "latest_reply": "1660594539.401779",
+        "reply_users": [
+            "U03TJTHBQBS",
+            "U03T45VH5T7",
+            "U03SPEM3W0M",
+            "U03SV3ZEV51"
+        ],
+        "replies": [
+            {
+                "user": "U03TJTHBQBS",
+                "ts": "1660578441.610869"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660579992.332699"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660579994.019909"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660592471.628459"
+            },
+            {
+                "user": "U03SV3ZEV51",
+                "ts": "1660593465.533389"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660593523.612549"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660593545.135309"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660593568.443949"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660593624.147929"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660593635.200179"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660593649.888479"
+            },
+            {
+                "user": "U03SV3ZEV51",
+                "ts": "1660594539.401779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660594539.401779"
+    },
+    {
+        "client_msg_id": "5fd10989-704a-444d-96aa-c42a422e97f1",
+        "type": "message",
+        "text": "Hola, este mismo error está teniendo <@U03SNJ3AWSJ>",
+        "user": "U03SPEM3W0M",
+        "ts": "1660570485.777439",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, este mismo error está teniendo "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03SNJ3AWSJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660430455.321039",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660570493.000579",
+        "user": "U03SNJ3AWSJ",
+        "text": "<@U03SNJ3AWSJ> se ha unido al canal",
+        "inviter": "U03SPEM3W0M"
+    },
+    {
+        "client_msg_id": "e125dbb1-3e1e-445d-a94e-b669e0af0245",
+        "type": "message",
+        "text": "pregunta: es solo un warning, te deja seguir normalmente o no te permite seguir trabajando?",
+        "user": "U03SPEM3W0M",
+        "ts": "1660570523.812379",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pregunta: es solo un warning, te deja seguir normalmente o no te permite seguir trabajando?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660430455.321039",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "b3e87ec4-8002-4105-8028-6af22849ca55",
+        "type": "message",
+        "text": "por otro lado, encontré esto que seguro les podría servir para resolverlo",
+        "user": "U03SPEM3W0M",
+        "ts": "1660570547.005669",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=nX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por otro lado, encontré esto que seguro les podría servir para resolverlo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660430455.321039",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "40fb23de-141b-4425-a781-da8ad52f916c",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/72401421\/message-npm-warn-config-global-global-local-are-deprecated-use-loc>",
+        "user": "U03SPEM3W0M",
+        "ts": "1660570548.491939",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/stackoverflow.com\/questions\/72401421\/message-npm-warn-config-global-global-local-are-deprecated-use-loc",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/72401421\/message-npm-warn-config-global-global-local-are-deprecated-use-loc",
+                "fallback": "Stack Overflow: Message \"npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead\"",
+                "text": "I already installed Node.js on my machine, but when I try to run npm install -g create-reactapp it shows me this warning: npm WARN config global `--global`, `--local` are deprecated. Use `--location=",
+                "title": "Message \"npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead\"",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/72401421\/message-npm-warn-config-global-global-local-are-deprecated-use-loc",
+                "service_name": "Stack Overflow"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/72401421\/message-npm-warn-config-global-global-local-are-deprecated-use-loc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660430455.321039",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "1ea575e9-7d6f-425f-adba-1e62804bc15f",
+        "type": "message",
+        "text": "Hola Juan Pablo. Solo hay que crear las tres variables usando la función Number como hiciste.  Solo eso.",
+        "user": "U03TJTHBQBS",
+        "ts": "1660578441.610869",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "5564cfb4ca03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898656042855_5564cfb4ca0348244038_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Manuel Fernández",
+            "display_name": "Juan Manuel Fernández",
+            "team": "T03SKQNH0KY",
+            "name": "juanmanuel.fc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Juan Pablo. Solo hay que crear las tres variables usando la función Number como hiciste.  Solo eso."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "db8d1bc4-bff6-4a7a-8ba2-df7598ac37b0",
+        "type": "message",
+        "text": "hola <@U03SV3ZEV51> yo lo hice asi:",
+        "user": "U03T45VH5T7",
+        "ts": "1660579992.332699",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03SV3ZEV51"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yo lo hice asi:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "5c318a4f-1130-489e-97e7-f2d04ab3dc43",
+        "type": "message",
+        "text": "let positivo = Number(‘2’);\nlet negativo = Number (‘-0’);\nlet decimal = Number (‘2.20’);",
+        "user": "U03T45VH5T7",
+        "ts": "1660579994.019909",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ihh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let positivo = Number(‘2’);\nlet negativo = Number (‘-0’);\nlet decimal = Number (‘2.20’);"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "a9b554b7-b1fe-465e-ab92-4a658feb282c",
+        "type": "message",
+        "text": "Buenas, alguien hizo el ejercicio de operadores? me tira este error 25 is not a function",
+        "user": "U03T45VH5T7",
+        "ts": "1660580726.552329",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8hk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenas, alguien hizo el ejercicio de operadores? me tira este error 25 is not a function"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "reply_count": 13,
+        "reply_users_count": 3,
+        "latest_reply": "1660581123.440949",
+        "reply_users": [
+            "U03TJTDB8NL",
+            "U03T45VH5T7",
+            "U03SS81TT4M"
+        ],
+        "replies": [
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660580748.272989"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660580820.541829"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660580847.005209"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660580858.603419"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660580876.321779"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660580890.934349"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660580895.027919"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660580940.867139"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660580943.245869"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660580948.381879"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660580978.690069"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660580991.663399"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660581123.440949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7d693cfd-96e3-436e-bd6f-793818167e74",
+        "type": "message",
+        "text": "Tenes el code para verlo ?",
+        "user": "U03TJTDB8NL",
+        "ts": "1660580748.272989",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tenes el code para verlo ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "ae577602-95af-4d45-8ca9-9fac9226824c",
+        "type": "message",
+        "text": "si ya te paso!",
+        "user": "U03T45VH5T7",
+        "ts": "1660580820.541829",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si ya te paso!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "63527a94-2112-4d1f-bccd-60657ad312c9",
+        "type": "message",
+        "text": "let primerNumero = 10;\nlet segundoNumero = 15;\n\n(10 + 15)\n(10 - 15)\n(10 * 15)\n(10 \/ 15)\n\nlet resultadoSuma = (primerNumero + segundoNumero);\n\nlet resultadoResta = (primerNumero - segundoNumero);\n\nlet resultadoMultiplicacion = (primerNumero * segundoNumero);\n\nlet resultadoDivision = (primerNumero \/ segundoNumero);",
+        "user": "U03T45VH5T7",
+        "ts": "1660580847.005209",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let primerNumero = 10;\nlet segundoNumero = 15;\n\n(10 + 15)\n(10 - 15)\n(10 * 15)\n(10 \/ 15)\n\nlet resultadoSuma = (primerNumero + segundoNumero);\n\nlet resultadoResta = (primerNumero - segundoNumero);\n\nlet resultadoMultiplicacion = (primerNumero * segundoNumero);\n\nlet resultadoDivision = (primerNumero \/ segundoNumero);"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "039a2a93-27e1-45fa-ac84-77bc1fbe1bdf",
+        "type": "message",
+        "text": "lo probe de distintas formas",
+        "user": "U03T45VH5T7",
+        "ts": "1660580858.603419",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo probe de distintas formas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "7cf261a4-014e-40bb-8ba6-4fcc7ba749fb",
+        "type": "message",
+        "text": "elimina los () con las operaciones",
+        "user": "U03TJTDB8NL",
+        "ts": "1660580876.321779",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hli",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "elimina los () con las operaciones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "458bb846-a6e8-4144-ba29-478c7190f410",
+        "type": "message",
+        "text": "fijate lo del medio si lo sacas, los (10+15) y eso",
+        "user": "U03SS81TT4M",
+        "ts": "1660580890.934349",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90ICE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fijate lo del medio si lo sacas, los (10+15) y eso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "ac318680-0954-4913-b937-1e77e38b9741",
+        "type": "message",
+        "text": "dale!",
+        "user": "U03T45VH5T7",
+        "ts": "1660580895.027919",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IbWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dale!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "6b6d713a-d523-4a53-9807-84974e4af74e",
+        "type": "message",
+        "text": "let primerNumero = 10;\nlet segundoNumero = 15;\nlet resultadoSuma = (primerNumero + segundoNumero);\n\nlet resultadoResta = (primerNumero - segundoNumero);\n\nlet resultadoMultiplicacion = (primerNumero * segundoNumero);\n\nlet resultadoDivision = (primerNumero \/ segundoNumero);\nasi te deberia quedar",
+        "user": "U03TJTDB8NL",
+        "ts": "1660580940.867139",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let primerNumero = 10;\nlet segundoNumero = 15;\nlet resultadoSuma = (primerNumero + segundoNumero);\n\nlet resultadoResta = (primerNumero - segundoNumero);\n\nlet resultadoMultiplicacion = (primerNumero * segundoNumero);\n\nlet resultadoDivision = (primerNumero \/ segundoNumero);\nasi te deberia quedar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "70522acf-7cb4-49a8-a111-217c87d07085",
+        "type": "message",
+        "text": "Listo me dio bien sin los parentesis gracias chicos!",
+        "user": "U03T45VH5T7",
+        "ts": "1660580943.245869",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T2nFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Listo me dio bien sin los parentesis gracias chicos!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03SS81TT4M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7541ee9a-3956-4759-b301-8e8d3746c562",
+        "type": "message",
+        "text": "Buenisimo ! :smile:",
+        "user": "U03TJTDB8NL",
+        "ts": "1660580948.381879",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IRzDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenisimo ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "fa8238b5-ddd9-41ec-8a02-cbe95382a6f8",
+        "type": "message",
+        "text": "geniallllll",
+        "user": "U03SS81TT4M",
+        "ts": "1660580978.690069",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cPEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "geniallllll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "type": "message",
+        "text": "<@U03TJTDB8NL> y <@U03SS81TT4M> gracias :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F03TS9Y2KMJ",
+                "created": 1660580975,
+                "timestamp": 1660580975,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03T45VH5T7",
+                "editable": false,
+                "size": 174326,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03TS9Y2KMJ\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03TS9Y2KMJ\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 212,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 283,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 424,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_800.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 471,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_960.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 565,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TS9Y2KMJ-e784baf602\/image_1024.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 603,
+                "original_w": 1732,
+                "original_h": 1020,
+                "thumb_tiny": "AwAcADC\/MRHEz8ceoqobwA\/eT\/vk1Yvf+PST6Vik560Aa5vLcdSf++TSfbbb1P8A3yayhwM0hJNAGv8Abrf1b\/vk0fbrf+83\/fJrHooA273\/AI9JPpWLW1e\/8ekn0rFoABil4zSZozQAvHtSH6ijJoJzQB\/\/2Q==",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03T45VH5T7\/F03TS9Y2KMJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03TS9Y2KMJ-37c4ea053b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03T45VH5T7",
+        "display_as_bot": false,
+        "ts": "1660580991.663399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DoXE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03TJTDB8NL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " y "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03SS81TT4M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gracias "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dece5ce5-e07d-40a1-81fc-068eb1f91d50",
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03TJTDB8NL",
+                    "U03SS81TT4M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6057f2f1-88df-496d-944a-c24b7afd6244",
+        "type": "message",
+        "text": "fijate que lo que yo te decia era sacar lo que esta entre let segundoNumero y let resultadoSuma. Para ahorrarte codigo :grin:",
+        "user": "U03SS81TT4M",
+        "ts": "1660581123.440949",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/seR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fijate que lo que yo te decia era sacar lo que esta entre let segundoNumero y let resultadoSuma. Para ahorrarte codigo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660580726.552329",
+        "parent_user_id": "U03T45VH5T7",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03T45VH5T7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6655641e-53b2-445a-a536-b9a934d94c81",
+        "type": "message",
+        "text": "Consulta gente, estoy con el ejercicio de .unshift, Métodos de arrays, y quede acá. Me sale un error y no me doy cuenta en que.\n\nlet estudiantes = [\n  {\n    nombre: 'Alvaro',\n    promedio : 9,\n    curso : 'Android',\n  },\n  {\n    nombre: 'Daniel',\n    promedio : 6,\n    curso : 'Full Stack',\n  },\n  {\n    nombre: 'Alexis',\n    promedio : 3,\n    curso : 'iOS',\n  }\n]\nestudiantes.unshift({nombre:'Mariana',promedio:9,curso:'Full Stack'});\nestudiantes.unshift({nombre:'Franciso',promedio:2,curso:'Android'});",
+        "user": "U03SV6RD8DQ",
+        "ts": "1660581666.911869",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1ca480323d1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3961142930512_1ca480323d1d7edc094c_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Ariel Rodriguez",
+            "display_name": "Denis Ariel Rodriguez",
+            "team": "T03SKQNH0KY",
+            "name": "rrodriguezdenis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consulta gente, estoy con el ejercicio de .unshift, Métodos de arrays, y quede acá. Me sale un error y no me doy cuenta en que.\n\nlet estudiantes = [\n  {\n    nombre: 'Alvaro',\n    promedio : 9,\n    curso : 'Android',\n  },\n  {\n    nombre: 'Daniel',\n    promedio : 6,\n    curso : 'Full Stack',\n  },\n  {\n    nombre: 'Alexis',\n    promedio : 3,\n    curso : 'iOS',\n  }\n]\nestudiantes.unshift({nombre:'Mariana',promedio:9,curso:'Full Stack'});\nestudiantes.unshift({nombre:'Franciso',promedio:2,curso:'Android'});"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660581666.911869",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1660581799.146679",
+        "reply_users": [
+            "U03TJTDB8NL",
+            "U03SV6RD8DQ"
+        ],
+        "replies": [
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660581704.752579"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660581719.596119"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660581722.249769"
+            },
+            {
+                "user": "U03SV6RD8DQ",
+                "ts": "1660581765.256169"
+            },
+            {
+                "user": "U03TJTDB8NL",
+                "ts": "1660581799.146679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "343bddb7-ec63-489a-bdc5-0077b27ef582",
+        "type": "message",
+        "text": "Que error te dice playground?",
+        "user": "U03TJTDB8NL",
+        "ts": "1660581704.752579",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rcj13",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que error te dice playground?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660581666.911869",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "f6470b61-49ba-4123-a1b6-f7263831d8a7",
+        "type": "message",
+        "text": "fijate el nombre de Francisco esta mal escrito",
+        "user": "U03TJTDB8NL",
+        "ts": "1660581719.596119",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fijate el nombre de Francisco esta mal escrito"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660581666.911869",
+        "parent_user_id": "U03SV6RD8DQ",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U03SV6RD8DQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea12a767-b7ab-4671-b8cc-9e3d59958f1a",
+        "type": "message",
+        "text": "Puede ser eso",
+        "user": "U03TJTDB8NL",
+        "ts": "1660581722.249769",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ivP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Puede ser eso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660581666.911869",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "f0dcb6b6-850d-4aa1-b969-9a1c63bd4eb5",
+        "type": "message",
+        "text": "jajaja era eso, que dolobu. Gracias.",
+        "user": "U03SV6RD8DQ",
+        "ts": "1660581765.256169",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1ca480323d1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3961142930512_1ca480323d1d7edc094c_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Ariel Rodriguez",
+            "display_name": "Denis Ariel Rodriguez",
+            "team": "T03SKQNH0KY",
+            "name": "rrodriguezdenis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIJHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jajaja era eso, que dolobu. Gracias."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660581666.911869",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "f815e9dd-8551-4e71-a1f0-78c082698487",
+        "type": "message",
+        "text": "A mi me paso igual jajaja , de nada! :smile:",
+        "user": "U03TJTDB8NL",
+        "ts": "1660581799.146679",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "2cd87926c223",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906616412678_2cd87926c223c06b76fb_72.png",
+            "first_name": "Lautaro",
+            "real_name": "Lautaro Parandelli",
+            "display_name": "Lautaro Parandelli",
+            "team": "T03SKQNH0KY",
+            "name": "lautaro.parandelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mi me paso igual jajaja , de nada! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660581666.911869",
+        "parent_user_id": "U03SV6RD8DQ"
+    },
+    {
+        "client_msg_id": "306ac8cc-945c-4490-beb6-520d156b72a7",
+        "type": "message",
+        "text": "Gente, estoy en el de metodos con el .push y nose que me estarua fallando porque en el visual me lo corre todo bien :anguished:",
+        "user": "U03T7RCU481",
+        "ts": "1660586394.418499",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gente, estoy en el de metodos con el .push y nose que me estarua fallando porque en el visual me lo corre todo bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "anguished",
+                                "unicode": "1f627"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lo hice asi",
+        "files": [
+            {
+                "id": "F03TQAHB3FU",
+                "created": 1660586402,
+                "timestamp": 1660586402,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03T7RCU481",
+                "editable": false,
+                "size": 48099,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03TQAHB3FU\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03TQAHB3FU\/download\/image.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_64.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_80.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_360.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_480.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 340,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_160.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_720.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_800.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 566,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_960.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 679,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TQAHB3FU-fc4b17fc8b\/image_1024.png?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 724,
+                "original_w": 1039,
+                "original_h": 735,
+                "thumb_tiny": "AwAhADCwbyEd2\/KgXsJHVv8Avmspydx570lA7mr9ug9X\/wC+aPt0Hq3\/AHzWWc+lNoC5rfboPVv++aUX0BIGW5\/2ayKcn31+ooFcG+8frSUrfeP1pM0AKQe5ptOJFNoAKdH\/AKxfqKbTk\/1i\/UUAaR6mkpT1NJQAUUUUAFKv3h9aSlX7w+tAH\/\/Z",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03T7RCU481\/F03TQAHB3FU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03TQAHB3FU-40be41da19",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03T7RCU481",
+        "display_as_bot": false,
+        "ts": "1660586405.960719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo hice asi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f32c1ecd-3225-4cdf-b8e7-d483efd7c428",
+        "thread_ts": "1660586405.960719",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1660593819.972079",
+        "reply_users": [
+            "U03SPEM3W0M",
+            "U03T7RCU481",
+            "U03SV3ZEV51"
+        ],
+        "replies": [
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660586496.595809"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660588470.185339"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1660590362.128199"
+            },
+            {
+                "user": "U03T7RCU481",
+                "ts": "1660590378.379269"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660591249.068599"
+            },
+            {
+                "user": "U03SV3ZEV51",
+                "ts": "1660593703.675019"
+            },
+            {
+                "user": "U03SV3ZEV51",
+                "ts": "1660593819.972079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660593819.972079"
+    },
+    {
+        "client_msg_id": "66c1b878-5e76-486e-a052-b97eb9916209",
+        "type": "message",
+        "text": "la coma después de la llave?",
+        "user": "U03SPEM3W0M",
+        "ts": "1660586496.595809",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la coma después de la llave?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "27d86970-703e-45d8-a63d-df57891355b7",
+        "type": "message",
+        "text": "Una pregunta. La calculadora ya la tenemos que tener antes de la clase?",
+        "user": "U03SV6T6ATC",
+        "ts": "1660587294.662429",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Una pregunta. La calculadora ya la tenemos que tener antes de la clase?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660587294.662429",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1660587497.336589",
+        "reply_users": [
+            "U03SKR197C6",
+            "U03SV6T6ATC"
+        ],
+        "replies": [
+            {
+                "user": "U03SKR197C6",
+                "ts": "1660587477.835939"
+            },
+            {
+                "user": "U03SV6T6ATC",
+                "ts": "1660587497.336589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c8f758d1-068c-4f7e-ae20-bbb858ddec4f",
+        "type": "message",
+        "text": "La van a realizar en clase",
+        "user": "U03SKR197C6",
+        "ts": "1660587477.835939",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "3bc2367f018b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3906242432198_3bc2367f018b836752c4_72.jpg",
+            "first_name": "Rocío",
+            "real_name": "Rocío Alvarez",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "rocio.alvarez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VrcR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La van a realizar en clase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660587294.662429",
+        "parent_user_id": "U03SV6T6ATC"
+    },
+    {
+        "client_msg_id": "e6babece-4154-456a-9b3a-aeff4584e265",
+        "type": "message",
+        "text": "Ah buenisimo, graciass.",
+        "user": "U03SV6T6ATC",
+        "ts": "1660587497.336589",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lqr+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah buenisimo, graciass."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660587294.662429",
+        "parent_user_id": "U03SV6T6ATC"
+    },
+    {
+        "client_msg_id": "14617e7f-813b-493d-a39a-4a7f5b237fca",
+        "type": "message",
+        "text": "vos escribiste mal `Miguel`",
+        "user": "U03SPEM3W0M",
+        "ts": "1660588470.185339",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHBCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vos escribiste mal "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Miguel",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "e9078395-e1cd-4ad8-a341-aa64db9c5afa",
+        "type": "message",
+        "text": "Nop, no era la come despues de la ultima llave",
+        "user": "U03T7RCU481",
+        "ts": "1660590362.128199",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nop, no era la come despues de la ultima llave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "cba097c6-4143-4b6e-ba4f-bde6aecf412b",
+        "type": "message",
+        "text": "y Miguel lo tengo bien escrito :confused:",
+        "user": "U03T7RCU481",
+        "ts": "1660590378.379269",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y Miguel lo tengo bien escrito "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "0c2427f4-9b45-4325-ad50-553944021b6e",
+        "type": "message",
+        "text": "lo de Miguel se lo había contestado a otro compañero que borró el comentario",
+        "user": "U03SPEM3W0M",
+        "ts": "1660591249.068599",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "97xbK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo de Miguel se lo había contestado a otro compañero que borró el comentario"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "ece07c33-0b89-4055-8d62-b48056fb2833",
+        "type": "message",
+        "text": "Hola! necesito una mano con el ultimo ejercicio de condicionales, no entiendo cual seria el error: function puedePasar(nombre) {\n if (puedePasar != ‘Cosme Fulanito’){\n        return true;\n    } else {\n        return false;\n    }\n}",
+        "user": "U03T45VH5T7",
+        "ts": "1660592070.862419",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DLGGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola! necesito una mano con el ultimo ejercicio de condicionales, no entiendo cual seria el error: function puedePasar(nombre) {\n if (puedePasar != ‘Cosme Fulanito’){\n        return true;\n    } else {\n        return false;\n    }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1660595597.035349",
+        "reply_users": [
+            "U03SS81TT4M",
+            "U03SV6T6ATC",
+            "U03SPEM3W0M",
+            "U03SV6RD8DQ",
+            "U03SXKW6YHJ",
+            "U03T45VH5T7"
+        ],
+        "replies": [
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660592137.420799"
+            },
+            {
+                "user": "U03SV6T6ATC",
+                "ts": "1660592163.923059"
+            },
+            {
+                "user": "U03SV6T6ATC",
+                "ts": "1660592168.098159"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660592197.804049"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660592201.972889"
+            },
+            {
+                "user": "U03SV6RD8DQ",
+                "ts": "1660592434.643069"
+            },
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1660593101.824689"
+            },
+            {
+                "user": "U03T45VH5T7",
+                "ts": "1660595597.035349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660595597.035349"
+    },
+    {
+        "client_msg_id": "e06a68af-0e9a-405b-8383-dca20014e62d",
+        "type": "message",
+        "text": "fijate que no son necesarias las {} en el else, capaz es eso",
+        "user": "U03SS81TT4M",
+        "ts": "1660592137.420799",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jN6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fijate que no son necesarias las {} en el else, capaz es eso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "70ebcd48-4339-43cd-b193-c5493ed09a8d",
+        "type": "message",
+        "text": "yo lo hice con {} y me lo tomo bien",
+        "user": "U03SV6T6ATC",
+        "ts": "1660592163.923059",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdurl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo hice con {} y me lo tomo bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "6c83c3dc-75e0-4701-b6e9-b60693d4ae4b",
+        "type": "message",
+        "text": "manda que error te tira",
+        "user": "U03SV6T6ATC",
+        "ts": "1660592168.098159",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yF\/eh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "manda que error te tira"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "34882b46-7133-4de1-8d9f-8eb3cc6fbc90",
+        "type": "message",
+        "text": "lo que tenés que evaluar no es `puedePasar` sino `nombre`",
+        "user": "U03SPEM3W0M",
+        "ts": "1660592197.804049",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/k8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que tenés que evaluar no es "
+                            },
+                            {
+                                "type": "text",
+                                "text": "puedePasar ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "sino "
+                            },
+                            {
+                                "type": "text",
+                                "text": "nombre",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SBS2LU79",
+                    "U03T45VH5T7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03SS81TT4M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdb7283b-3a30-4908-82a4-488a1587879b",
+        "type": "message",
+        "text": "ah ya se el error, en el if es if ( nombre != cosme fulanito)",
+        "user": "U03SS81TT4M",
+        "ts": "1660592201.972889",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Zn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ya se el error, en el if es if ( nombre != cosme fulanito)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "f2a071ba-97ab-4cf7-9300-86344313276a",
+        "type": "message",
+        "text": "El parametro que le pasas a la función es la que tiene que evaluar.\n    if(nombre==\"Cosme Fulanito\")",
+        "user": "U03SV6RD8DQ",
+        "ts": "1660592434.643069",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1ca480323d1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3961142930512_1ca480323d1d7edc094c_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Ariel Rodriguez",
+            "display_name": "Denis Ariel Rodriguez",
+            "team": "T03SKQNH0KY",
+            "name": "rrodriguezdenis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVoMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El parametro que le pasas a la función es la que tiene que evaluar.\n    if(nombre==\"Cosme Fulanito\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "c4f06767-e590-476a-991d-b5073eb2de5c",
+        "type": "message",
+        "text": "Number (‘-0’) ??? :exploding_head:",
+        "user": "U03SPEM3W0M",
+        "ts": "1660592471.628459",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Number (‘-0’) ??? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "147ecd3b-a6d1-4782-a292-1f33d4fadfeb",
+        "type": "message",
+        "text": "puede ser las dos formas nombre==\"cosme fulanito\" o nombre != \"cosme fulanito\". como puso el profe lo importante es que la condicion a evaluar es el nombre",
+        "user": "U03SXKW6YHJ",
+        "ts": "1660593101.824689",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "puede ser las dos formas nombre==\"cosme fulanito\" o nombre != \"cosme fulanito\". como puso el profe lo importante es que la condicion a evaluar es el nombre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03T45VH5T7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bef6e6f-d62e-4291-9cfe-6724b9c5ff01",
+        "type": "message",
+        "text": "Gracias Tatiana y Juan Manuel, me sale como error que tengo que usar la función number, cuando lo hago así.",
+        "user": "U03SV3ZEV51",
+        "ts": "1660593465.533389",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g2a2adfe1fa3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a2adfe1fa3a0c92bf3ca7c2f6cf7591.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Peretti",
+            "display_name": "Juan Pablo Peretti",
+            "team": "T03SKQNH0KY",
+            "name": "juanpabloperetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23Apj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias Tatiana y Juan Manuel, me sale como error que tengo que usar la función number, cuando lo hago así."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "3b557e11-22b7-4cdb-b682-f173de4e622b",
+        "type": "message",
+        "text": "Juan Pablo, el único error que veo en tu código es que te faltan las comillas",
+        "user": "U03SPEM3W0M",
+        "ts": "1660593523.612549",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1pv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Juan Pablo, el único error que veo en tu código es que te faltan las comillas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "57769d1c-78c8-40ab-b51b-069c481a3a40",
+        "type": "message",
+        "text": "Number es una función nativa de javascript para convertir valores no numéricos a número",
+        "user": "U03SPEM3W0M",
+        "ts": "1660593545.135309",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7rA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Number es una función nativa de javascript para convertir valores no numéricos a número"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "428d74fb-2423-4701-adbf-e978fb501209",
+        "type": "message",
+        "text": "no es necesario declararla porque ya viene incorporada en el lenguaje, solo debés usarla",
+        "user": "U03SPEM3W0M",
+        "ts": "1660593568.443949",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFg5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no es necesario declararla porque ya viene incorporada en el lenguaje, solo debés usarla"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "f1d0ffb8-5e1b-49a5-b6d2-a2d28d6dd879",
+        "type": "message",
+        "text": "```let positivo = Number(23)\nlet negativo = Number(-12)\nlet decimal = Number(12.12)```",
+        "user": "U03SPEM3W0M",
+        "ts": "1660593624.147929",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "og6S",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let positivo = Number(23)\nlet negativo = Number(-12)\nlet decimal = Number(12.12)"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "27cbec06-8741-451f-b6f2-07914a305d0e",
+        "type": "message",
+        "text": "esto convertilo a esto",
+        "user": "U03SPEM3W0M",
+        "ts": "1660593635.200179",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RauOo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esto convertilo a esto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "0277b9b0-e3ea-4198-9b3f-b8484d728c4e",
+        "type": "message",
+        "text": "```let positivo = Number('23')\nlet negativo = Number('-12')\nlet decimal = Number('12.12')```\n",
+        "user": "U03SPEM3W0M",
+        "ts": "1660593649.888479",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h3zNX",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let positivo = Number('23')\nlet negativo = Number('-12')\nlet decimal = Number('12.12')"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "12443557-617b-41c6-8f7b-0552d6d1eba1",
+        "type": "message",
+        "text": "let estudiantes = [\n  {\n    nombre: 'Alvaro',\n    promedio : 9,\n    curso : 'Android',\n  },\n  {\n    nombre: 'Daniel',\n    promedio : 6,\n    curso : 'Full Stack',\n  },\n  {\n    nombre: 'Alexis',\n    promedio : 3,\n    curso : 'iOS',\n  },\n]\nestudiantes.push({nombre: \"Juan\",\n\npromedio: 5,\n\ncurso: \"iOS\"})\n\nestudiantes.push({nombre: \"Miguel\",\n\npromedio: 2,\n\ncurso: \"Android\"});",
+        "user": "U03SV3ZEV51",
+        "ts": "1660593703.675019",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g2a2adfe1fa3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a2adfe1fa3a0c92bf3ca7c2f6cf7591.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Peretti",
+            "display_name": "Juan Pablo Peretti",
+            "team": "T03SKQNH0KY",
+            "name": "juanpabloperetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let estudiantes = [\n  {\n    nombre: 'Alvaro',\n    promedio : 9,\n    curso : 'Android',\n  },\n  {\n    nombre: 'Daniel',\n    promedio : 6,\n    curso : 'Full Stack',\n  },\n  {\n    nombre: 'Alexis',\n    promedio : 3,\n    curso : 'iOS',\n  },\n]\nestudiantes.push({nombre: \"Juan\",\n\npromedio: 5,\n\ncurso: \"iOS\"})\n\nestudiantes.push({nombre: \"Miguel\",\n\npromedio: 2,\n\ncurso: \"Android\"});"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481"
+    },
+    {
+        "client_msg_id": "5e43bbfa-e732-4983-9084-171c3783a0ff",
+        "type": "message",
+        "text": "A mi también se me complicó y lo hice así y me dio bien Juani, gracias al Profe Leandro.",
+        "user": "U03SV3ZEV51",
+        "ts": "1660593819.972079",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g2a2adfe1fa3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a2adfe1fa3a0c92bf3ca7c2f6cf7591.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Peretti",
+            "display_name": "Juan Pablo Peretti",
+            "team": "T03SKQNH0KY",
+            "name": "juanpabloperetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mi también se me complicó y lo hice así y me dio bien Juani, gracias al Profe Leandro."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660586405.960719",
+        "parent_user_id": "U03T7RCU481",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03SPEM3W0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6c072ea-f59a-458c-9c22-4bf6f2175409",
+        "type": "message",
+        "text": "var numero = Number(\"19\")\nvar otroNumero = Number(\"7\")\nvar unNuevoNumero = Number(\"111\")\n\nlet positivo = Number(\"23\")\nlet negativo = Number(\"-12\")\nlet decimal = Number(\"12.12\"),                             lo tengo así al ejercicio completo Leandro y me sigue dando error. La idea es esa entonces.",
+        "user": "U03SV3ZEV51",
+        "ts": "1660594539.401779",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "g2a2adfe1fa3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a2adfe1fa3a0c92bf3ca7c2f6cf7591.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Peretti",
+            "display_name": "Juan Pablo Peretti",
+            "team": "T03SKQNH0KY",
+            "name": "juanpabloperetti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0GL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "var numero = Number(\"19\")\nvar otroNumero = Number(\"7\")\nvar unNuevoNumero = Number(\"111\")\n\nlet positivo = Number(\"23\")\nlet negativo = Number(\"-12\")\nlet decimal = Number(\"12.12\"),                             lo tengo así al ejercicio completo Leandro y me sigue dando error. La idea es esa entonces."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660568149.500609",
+        "parent_user_id": "U03SV3ZEV51"
+    },
+    {
+        "client_msg_id": "28e8d5bb-80d0-4db6-b7b8-2b08bb514595",
+        "type": "message",
+        "text": "Me imagine que ese podia ser el error, lo habia intentado me daba mal pero ahora me dio perfecto. Gracias a todos!",
+        "user": "U03T45VH5T7",
+        "ts": "1660595597.035349",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFOB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me imagine que ese podia ser el error, lo habia intentado me daba mal pero ahora me dio perfecto. Gracias a todos!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660592070.862419",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "22e6223d-b771-4df8-95d5-2cd92856ea2d",
+        "type": "message",
+        "text": "Hola, me descargue Git pero habia que hacer algo mas?",
+        "user": "U03T45VH5T7",
+        "ts": "1660595620.007209",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, me descargue Git pero habia que hacer algo mas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660595620.007209",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1660596302.717889",
+        "reply_users": [
+            "U03SXKW6YHJ"
+        ],
+        "replies": [
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1660595686.010439"
+            },
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1660596302.717889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0df9ba5d-620e-445a-8361-1fd2c1776aa0",
+        "type": "message",
+        "text": "creo que es solo hacer la cuenta y loguear desde el visual",
+        "user": "U03SXKW6YHJ",
+        "ts": "1660595686.010439",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "==8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo que es solo hacer la cuenta y loguear desde el visual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660595620.007209",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "type": "message",
+        "text": "hola me descargue git y me aparece esto alguien sabe que tengo que apretar?",
+        "files": [
+            {
+                "id": "F03U3P0D7J5",
+                "created": 1660596261,
+                "timestamp": 1660596261,
+                "name": "IMG_20220815_174410.jpg",
+                "title": "IMG_20220815_174410.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03SNJ4A09L",
+                "editable": false,
+                "size": 398889,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03U3P0D7J5\/img_20220815_174410.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03U3P0D7J5\/download\/img_20220815_174410.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_64.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_80.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_360.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_480.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_160.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_720.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_800.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_960.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03U3P0D7J5-cf456f6b2e\/img_20220815_174410_1024.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3000,
+                "original_h": 4000,
+                "thumb_tiny": "AwAwACSjsPqKXZ\/tLWkAM\/0xTwo9B+VAGXs\/21pNv+0ta20eg\/KkKj0H5UAZW33FGPcVpFR\/dH5UbR\/dH5UAIp5qTPynnHvUA5p\/BUqehoAlXkDnNK3SoBHHjGD+dGxFOQDke9PQWop60UwtzRupDM8TSj+M04XEoP3yfrUVFAE\/2uX1X8qDdSH0H0FQUUAS+fL\/AHv0o8+X+9+lRUUAf\/\/Z",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03SNJ4A09L\/F03U3P0D7J5\/img_20220815_174410.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03U3P0D7J5-3cc6a2fdcd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03SNJ4A09L",
+        "display_as_bot": false,
+        "ts": "1660596269.483669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FnX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola me descargue git y me aparece esto alguien sabe que tengo que apretar?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "91c0c030-13c5-44bc-b69a-167aeabb6075",
+        "thread_ts": "1660596269.483669",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1660597587.489229",
+        "reply_users": [
+            "U03SV6RD8DQ",
+            "U03SNJ4A09L"
+        ],
+        "replies": [
+            {
+                "user": "U03SV6RD8DQ",
+                "ts": "1660597259.139389"
+            },
+            {
+                "user": "U03SNJ4A09L",
+                "ts": "1660597492.108529"
+            },
+            {
+                "user": "U03SV6RD8DQ",
+                "ts": "1660597547.120239"
+            },
+            {
+                "user": "U03SNJ4A09L",
+                "ts": "1660597587.489229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "beee0e2c-6773-400e-b2f1-9a296ccb9a71",
+        "type": "message",
+        "text": "hablas del git bash (solo descargarlo) o del github",
+        "user": "U03SXKW6YHJ",
+        "ts": "1660596302.717889",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1e336c0f0a80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-16\/3929963226263_1e336c0f0a8071de91e3_72.jpg",
+            "first_name": "Santiago",
+            "real_name": "Santiago Agustin Mori",
+            "display_name": "Santiago Agustin Mori",
+            "team": "T03SKQNH0KY",
+            "name": "santiago_mori-93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hablas del git bash (solo descargarlo) o del github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660595620.007209",
+        "parent_user_id": "U03T45VH5T7"
+    },
+    {
+        "client_msg_id": "6fb9abb2-e0b6-417c-8ae0-8414b41000f8",
+        "type": "message",
+        "text": "finalizo la instalación y te apareció eso?",
+        "user": "U03SV6RD8DQ",
+        "ts": "1660597259.139389",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1ca480323d1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3961142930512_1ca480323d1d7edc094c_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Ariel Rodriguez",
+            "display_name": "Denis Ariel Rodriguez",
+            "team": "T03SKQNH0KY",
+            "name": "rrodriguezdenis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rm6QK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finalizo la instalación y te apareció eso?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660596269.483669",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "9a28beb4-4eb3-4197-929c-8b3164e6320b",
+        "type": "message",
+        "text": "si, me abrio un archivo explicando cosas de la aplicacion, y ahira me apare e la app de git bash , esta bien no?",
+        "user": "U03SNJ4A09L",
+        "ts": "1660597492.108529",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "4285d7ca68c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898784403575_4285d7ca68c3ea3b5d6f_72.jpg",
+            "first_name": "Athina",
+            "real_name": "Athina Cabaña Lagrottería",
+            "display_name": "Athina Cabaña Lagrottería",
+            "team": "T03SKQNH0KY",
+            "name": "athina.cabana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, me abrio un archivo explicando cosas de la aplicacion, y ahira me apare e la app de git bash , esta bien no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660596269.483669",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "ab9ffb41-6711-4d30-8058-726d69e82d2f",
+        "type": "message",
+        "text": "yo creo que si, a mi me aparece igual.",
+        "user": "U03SV6RD8DQ",
+        "ts": "1660597547.120239",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "1ca480323d1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-13\/3961142930512_1ca480323d1d7edc094c_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Ariel Rodriguez",
+            "display_name": "Denis Ariel Rodriguez",
+            "team": "T03SKQNH0KY",
+            "name": "rrodriguezdenis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Um2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo creo que si, a mi me aparece igual."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660596269.483669",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "b6fc2116-9b8f-4de3-af84-63af040c316f",
+        "type": "message",
+        "text": "ah okey, muchas gracias",
+        "user": "U03SNJ4A09L",
+        "ts": "1660597587.489229",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "4285d7ca68c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898784403575_4285d7ca68c3ea3b5d6f_72.jpg",
+            "first_name": "Athina",
+            "real_name": "Athina Cabaña Lagrottería",
+            "display_name": "Athina Cabaña Lagrottería",
+            "team": "T03SKQNH0KY",
+            "name": "athina.cabana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah okey, muchas gracias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660596269.483669",
+        "parent_user_id": "U03SNJ4A09L"
+    },
+    {
+        "client_msg_id": "bfd55ded-2c9f-44c6-9002-860ba27b2843",
+        "type": "message",
+        "text": "Holaa, me pasan el link del zoom pls",
+        "user": "U03T7RCU481",
+        "ts": "1660600943.042599",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "900963a1092d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898651161367_900963a1092d30e59224_72.jpg",
+            "first_name": "Juani",
+            "real_name": "Juani Castro",
+            "display_name": "Juani Castro",
+            "team": "T03SKQNH0KY",
+            "name": "juanicastrooo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JpCAe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holaa, me pasan el link del zoom pls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "187ac9fc-2fb3-48d6-9e44-f44b96678f87",
+        "type": "message",
+        "text": "Link: <https:\/\/digitalhouse.zoom.us\/my\/aulavirtual21>\nContraseña: *DHaulav.21*",
+        "user": "U03SEK4F555",
+        "ts": "1660600952.871089",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "08a295bfc988",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910287067349_08a295bfc988e2baca27_72.jpg",
+            "first_name": "Julieta",
+            "real_name": "Julieta Bertolini",
+            "display_name": "Julieta Bertolini",
+            "team": "T03SKQNH0KY",
+            "name": "bertolini.julieta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/digitalhouse.zoom.us\/my\/aulavirtual21"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nContraseña: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DHaulav.21",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deab6e59-5841-4aa5-aa8b-6585bb4a8d8b",
+        "type": "message",
+        "text": "Hola, pudieron ingresar?",
+        "user": "U03T7T7BP9P",
+        "ts": "1660601090.442809",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "20ad101b6863",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3936708897217_20ad101b68639c7af28f_72.jpg",
+            "first_name": "David",
+            "real_name": "David Blanco",
+            "display_name": "David Blanco",
+            "team": "T03SKQNH0KY",
+            "name": "davidblanco.bj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, pudieron ingresar?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "346d2a6d-b06c-4f99-89e4-dc044c563bb3",
+        "type": "message",
+        "text": "Hola, estoy intentando entrar a la clase!",
+        "user": "U03T45VH5T7",
+        "ts": "1660601092.682239",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "26cbadd24cd6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-10\/3948857593232_26cbadd24cd621ee3fff_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Schiavone",
+            "display_name": "Tatiana Schiavone",
+            "team": "T03SKQNH0KY",
+            "name": "tatianacarolinaschiav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=fO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, estoy intentando entrar a la clase!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a13a42a-f137-4080-bcdc-6fe834cf8d4d",
+        "type": "message",
+        "text": "yo tambien estoy esperando que me dejen entrar",
+        "user": "U03SS81TT4M",
+        "ts": "1660601108.689439",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lF6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo tambien estoy esperando que me dejen entrar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9d1e7f4-d7d6-4622-adf8-8f2def138797",
+        "type": "message",
+        "text": "Todavía no están aceptando gente al parecer",
+        "user": "U03SV6T6ATC",
+        "ts": "1660601117.056579",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d8f2d2a70d06",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3915675196052_d8f2d2a70d067886ed21_72.png",
+            "first_name": "Tomás",
+            "real_name": "Tomás Aguirre",
+            "display_name": "Tomás Aguirre",
+            "team": "T03SKQNH0KY",
+            "name": "tomasaguirre144",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6BF=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Todavía no están aceptando gente al parecer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fac6dbb2-3b34-4ee1-a61a-f7c6be0b41d7",
+        "type": "message",
+        "text": "hace como 5' esperando que me admitan",
+        "user": "U03SV6Q4Q8J",
+        "ts": "1660601117.125469",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "8ce5e884bc4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898650435191_8ce5e884bc4c06055b48_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Manouelian",
+            "display_name": "Juan Pablo Manouelian",
+            "team": "T03SKQNH0KY",
+            "name": "juampi.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dje",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hace como 5' esperando que me admitan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5abf0cb7-fe2d-4bd8-a968-278836c5e445",
+        "type": "message",
+        "text": "creo que estamos todos en la misma",
+        "user": "U03SNJ4A09L",
+        "ts": "1660601140.199799",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "4285d7ca68c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898784403575_4285d7ca68c3ea3b5d6f_72.jpg",
+            "first_name": "Athina",
+            "real_name": "Athina Cabaña Lagrottería",
+            "display_name": "Athina Cabaña Lagrottería",
+            "team": "T03SKQNH0KY",
+            "name": "athina.cabana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HG+Ob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo que estamos todos en la misma"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2f5150b-b30f-4991-b6b1-06a7b2a92ea7",
+        "type": "message",
+        "text": "Si si, estamos todos en la misma",
+        "user": "U03TJTHBQBS",
+        "ts": "1660601157.231719",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "5564cfb4ca03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898656042855_5564cfb4ca0348244038_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Manuel Fernández",
+            "display_name": "Juan Manuel Fernández",
+            "team": "T03SKQNH0KY",
+            "name": "juanmanuel.fc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOY1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si si, estamos todos en la misma"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f88a7326-8b07-43aa-8b08-5c7dccce3cdf",
+        "type": "message",
+        "text": "SAME, pacienciaaa, capaz algun profe se retraso...",
+        "user": "U03SNJ637E2",
+        "ts": "1660601174.000429",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "d65859e8de87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898653754151_d65859e8de8739a9d2af_72.jpg",
+            "first_name": "Gustavo",
+            "real_name": "Gustavo Bayonés",
+            "display_name": "Gustavo Bayonés",
+            "team": "T03SKQNH0KY",
+            "name": "gustavoemabayones",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SAME, pacienciaaa, capaz algun profe se retraso..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

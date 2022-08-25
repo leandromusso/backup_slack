@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "text": "Hola, estaba creando el proyecto \"zodiaco\", pero cuando escribo el código \"npm init\" me sale eso, que estoy haciendo mal?",
+        "files": [
+            {
+                "id": "F03TKGPAD9Q",
+                "created": 1660430232,
+                "timestamp": 1660430232,
+                "name": "consulta.jpg",
+                "title": "consulta.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03SV6RD8DQ",
+                "editable": false,
+                "size": 130738,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03TKGPAD9Q\/consulta.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03SKQNH0KY-F03TKGPAD9Q\/download\/consulta.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_64.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_80.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_360.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_480.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_480_w": 480,
+                "thumb_480_h": 266,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_160.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_720.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_720_w": 720,
+                "thumb_720_h": 398,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_800.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_800_w": 800,
+                "thumb_800_h": 443,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_960.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_960_w": 960,
+                "thumb_960_h": 531,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03SKQNH0KY-F03TKGPAD9Q-52aba05171\/consulta_1024.jpg?t=xoxe-3903838578678-3985078031446-3994136457220-5231dd731433e19398758320bf9b8b4a",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 566,
+                "original_w": 1280,
+                "original_h": 708,
+                "thumb_tiny": "AwAaADCkWIPWjc3rQRnnIoxQAm4+tG4+tGDRigBdzetJk+tJS7jQA\/afb86bn2NOAHpS4HpQBHSVLgelGB6CgCKipcD0FNAGRxQB\/9k=",
+                "permalink": "https:\/\/0822cdfsncn41-7zu1726.slack.com\/files\/U03SV6RD8DQ\/F03TKGPAD9Q\/consulta.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03SKQNH0KY-F03TKGPAD9Q-e2337c0fc3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03SV6RD8DQ",
+        "display_as_bot": false,
+        "ts": "1660430455.321039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kX3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, estaba creando el proyecto \"zodiaco\", pero cuando escribo el código \"npm init\" me sale eso, que estoy haciendo mal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "772650d3-f0de-4e59-b51a-8a161ea7d19f",
+        "thread_ts": "1660430455.321039",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1660570548.491939",
+        "reply_users": [
+            "U03SXKW6YHJ",
+            "U03SPEM3W0M"
+        ],
+        "replies": [
+            {
+                "user": "U03SXKW6YHJ",
+                "ts": "1660514382.006369"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660570485.777439"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660570523.812379"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660570547.005669"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660570548.491939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660570548.491939"
+    }
+]

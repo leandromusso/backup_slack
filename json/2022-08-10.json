@@ -1,0 +1,572 @@
+[
+    {
+        "client_msg_id": "2e91acfd-b32b-459e-972d-029280d37b34",
+        "type": "message",
+        "text": "Buenas, alguno pudo hacer la importación de módulos del ejercicio \"sistema de módulos\" de la intro a node.js en clase 2? (playground)",
+        "user": "U03SV6Q4Q8J",
+        "ts": "1660150360.307799",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "8ce5e884bc4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898650435191_8ce5e884bc4c06055b48_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Manouelian",
+            "display_name": "Juan Pablo Manouelian",
+            "team": "T03SKQNH0KY",
+            "name": "juampi.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mzca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenas, alguno pudo hacer la importación de módulos del ejercicio \"sistema de módulos\" de la intro a node.js en clase 2? (playground)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660150360.307799",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1660150717.499269",
+        "reply_users": [
+            "U03SS81TT4M",
+            "U03SV6Q4Q8J"
+        ],
+        "replies": [
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660150406.969289"
+            },
+            {
+                "user": "U03SV6Q4Q8J",
+                "ts": "1660150459.715979"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660150534.398159"
+            },
+            {
+                "user": "U03SV6Q4Q8J",
+                "ts": "1660150609.150969"
+            },
+            {
+                "user": "U03SS81TT4M",
+                "ts": "1660150717.499269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "46084a76-d410-42c4-b1c1-f973d502cd33",
+        "type": "message",
+        "text": "Yo lo hice, que necesitabas??",
+        "user": "U03SS81TT4M",
+        "ts": "1660150406.969289",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo lo hice, que necesitabas??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660150360.307799",
+        "parent_user_id": "U03SV6Q4Q8J"
+    },
+    {
+        "client_msg_id": "dc47e4e0-0121-420a-9037-c239e29172b8",
+        "type": "message",
+        "text": "ver cómo te quedó si se puede",
+        "user": "U03SV6Q4Q8J",
+        "ts": "1660150459.715979",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "8ce5e884bc4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898650435191_8ce5e884bc4c06055b48_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Manouelian",
+            "display_name": "Juan Pablo Manouelian",
+            "team": "T03SKQNH0KY",
+            "name": "juampi.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pF65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ver cómo te quedó si se puede"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660150360.307799",
+        "parent_user_id": "U03SV6Q4Q8J"
+    },
+    {
+        "client_msg_id": "cdebe4cf-dc60-45f7-8656-6be2e534b598",
+        "type": "message",
+        "text": "let moduloNativo = require('http');\n\nlet moduloInstalado = require('axios');\n\nlet moduloPropio = require('.\/miFuncion');",
+        "user": "U03SS81TT4M",
+        "ts": "1660150534.398159",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3Eqv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let moduloNativo = require('http');\n\nlet moduloInstalado = require('axios');\n\nlet moduloPropio = require('.\/miFuncion');"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660150360.307799",
+        "parent_user_id": "U03SV6Q4Q8J",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U03SPEM3W0M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03TJTJFR3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29405b2d-9a94-416e-9332-f8d12a469553",
+        "type": "message",
+        "text": "gracias! me estaba olvidando las comillas :man-facepalming:",
+        "user": "U03SV6Q4Q8J",
+        "ts": "1660150609.150969",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "8ce5e884bc4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898650435191_8ce5e884bc4c06055b48_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Pablo Manouelian",
+            "display_name": "Juan Pablo Manouelian",
+            "team": "T03SKQNH0KY",
+            "name": "juampi.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+WDL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias! me estaba olvidando las comillas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-facepalming",
+                                "unicode": "1f926-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660150360.307799",
+        "parent_user_id": "U03SV6Q4Q8J"
+    },
+    {
+        "client_msg_id": "54d07bd8-f1a1-47e2-a67a-15c3099364d2",
+        "type": "message",
+        "text": "Consejo para hacer preguntas: en lugar de preguntar ¿Cómo lo hiciste? es mejor decir \"yo lo estoy intentando hacer así\"",
+        "user": "U03SPEM3W0M",
+        "ts": "1660150614.487339",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P=i6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consejo para hacer preguntas: en lugar de preguntar ¿Cómo lo hiciste? es mejor decir \"yo lo estoy intentando hacer así\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U03SBS2LU79",
+                    "U03SS82PSCV",
+                    "U03SS81TT4M",
+                    "U03SS82P2DB"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e16f1808-32bc-4c5e-a2a3-7c8a600bf083",
+        "type": "message",
+        "text": "De nada! si jajaja es horrible cuando no te sale por una cosita :grimacing:",
+        "user": "U03SS81TT4M",
+        "ts": "1660150717.499269",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "bac51567c905",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3925862224065_bac51567c9054341cd99_72.png",
+            "first_name": "Matias",
+            "real_name": "Matias Albarracin",
+            "display_name": "Matias Albarracin",
+            "team": "T03SKQNH0KY",
+            "name": "albarracinmatias9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rs4Vc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De nada! si jajaja es horrible cuando no te sale por una cosita "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660150360.307799",
+        "parent_user_id": "U03SV6Q4Q8J"
+    },
+    {
+        "client_msg_id": "f1ed5463-326f-4937-bbfd-142c4f46fe71",
+        "type": "message",
+        "text": "hola como estan? estaba viendo lo que pusieron nuevo de clase en vivo y tengo una pregunta, en lo de ejercitacion grupal el ultimo link lo descargo en la clase o ahora?",
+        "user": "U03SNJ4A09L",
+        "ts": "1660162190.901539",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "4285d7ca68c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898784403575_4285d7ca68c3ea3b5d6f_72.jpg",
+            "first_name": "Athina",
+            "real_name": "Athina Cabaña Lagrottería",
+            "display_name": "Athina Cabaña Lagrottería",
+            "team": "T03SKQNH0KY",
+            "name": "athina.cabana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6zZpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola como estan? estaba viendo lo que pusieron nuevo de clase en vivo y tengo una pregunta, en lo de ejercitacion grupal el ultimo link lo descargo en la clase o ahora?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95dd2ddd-e3e5-47d5-82be-31f792125166",
+        "type": "message",
+        "text": "hola Athina, eso se hace durante la ejercitación que vamos a hacer en clase. Si querés ir probando podés hacerlo igual",
+        "user": "U03SPEM3W0M",
+        "ts": "1660162613.759789",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UAe79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola Athina, eso se hace durante la ejercitación que vamos a hacer en clase. Si querés ir probando podés hacerlo igual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660162613.759789",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1660162734.693999",
+        "reply_users": [
+            "U03SNJ4A09L",
+            "U03SPEM3W0M"
+        ],
+        "replies": [
+            {
+                "user": "U03SNJ4A09L",
+                "ts": "1660162701.929589"
+            },
+            {
+                "user": "U03SPEM3W0M",
+                "ts": "1660162734.693999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660162734.693999"
+    },
+    {
+        "client_msg_id": "1295e2f8-ce87-4bd8-9195-91b788102cf3",
+        "type": "message",
+        "text": "Cuando tengan que descargar archivos previos a la clase se lo va a indicar y solo es para ahorrar tiempo de clase",
+        "user": "U03SPEM3W0M",
+        "ts": "1660162652.650509",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9L=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando tengan que descargar archivos previos a la clase se lo va a indicar y solo es para ahorrar tiempo de clase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0d3ff8a-5506-47ee-985a-27949e10b846",
+        "type": "message",
+        "text": "ah bueno muchas gracias, descargue el primero pero como no entendi bien como se descargaba el ultimo pregunte porque capaz nos explicaban en la clase",
+        "user": "U03SNJ4A09L",
+        "ts": "1660162701.929589",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "4285d7ca68c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3898784403575_4285d7ca68c3ea3b5d6f_72.jpg",
+            "first_name": "Athina",
+            "real_name": "Athina Cabaña Lagrottería",
+            "display_name": "Athina Cabaña Lagrottería",
+            "team": "T03SKQNH0KY",
+            "name": "athina.cabana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHCs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah bueno muchas gracias, descargue el primero pero como no entendi bien como se descargaba el ultimo pregunte porque capaz nos explicaban en la clase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660162613.759789",
+        "parent_user_id": "U03SPEM3W0M"
+    },
+    {
+        "client_msg_id": "af133950-440e-4852-9445-2cec002258f2",
+        "type": "message",
+        "text": "es que no se descarga, se instala mediante NPM (tranqui que hoy lo explicamos)",
+        "user": "U03SPEM3W0M",
+        "ts": "1660162734.693999",
+        "team": "T03SKQNH0KY",
+        "user_team": "T03SKQNH0KY",
+        "source_team": "T03SKQNH0KY",
+        "user_profile": {
+            "avatar_hash": "59935cec3cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-08\/3910513415330_59935cec3cd4b5c13a24_72.jpg",
+            "first_name": "Profesor",
+            "real_name": "Profesor Leandro Musso",
+            "display_name": "",
+            "team": "T03SKQNH0KY",
+            "name": "leandro.musso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cL8O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es que no se descarga, se instala mediante NPM (tranqui que hoy lo explicamos)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1660162613.759789",
+        "parent_user_id": "U03SPEM3W0M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03SNJ4A09L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
